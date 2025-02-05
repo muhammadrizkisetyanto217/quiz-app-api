@@ -13,7 +13,7 @@ import (
 func GetCategory(c *gin.Context) {
 	id := c.Query("id")
 	if id == "" {
-		c.JSON(http.StatusBadRequest, gin.H{"error": "id query parameter is required"})
+		c.JSON(http.StatusOK, models.CategoryResponse{})
 		return
 	}
 
