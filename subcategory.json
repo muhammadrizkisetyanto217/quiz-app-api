@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Kategori 1",
+      "description": "Deskripsi singkat kategori 1",
+      "articles_count": 10
+    },
+    {
+      "id": 2,
+      "name": "Kategori 2",
+      "description": "Deskripsi singkat kategori 2",
+      "articles_count": 5
+    }
+  ]
+}
