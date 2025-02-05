@@ -10,6 +10,7 @@ func main() {
 	r := gin.Default()
 
 	r.GET("/subcategory", handlers.GetSubcategory)
+	r.GET("/category", handlers.GetCategory)
 
 	r.Run(":8080") // Server berjalan di http://localhost:8080
 }
