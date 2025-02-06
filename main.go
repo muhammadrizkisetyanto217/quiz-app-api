@@ -1,7 +1,7 @@
 package main
 
 import (
-	"quiz-app-api/handlers"
+	"quiz-app-api/handlers/category"
 
 	"github.com/gin-gonic/gin"
 )
@@ -26,6 +26,7 @@ func main() {
 	r.GET("/subcategory", handlers.GetSubcategory)
 	r.GET("/category", handlers.GetCategory)
 	r.GET("/themes_or_levels", handlers.GetThemesOrLevels)
+	r.GET("/units", handlers.GetUnits)
 
 	r.Run(":8080") // Server berjalan di http://localhost:8080
 }

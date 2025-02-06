@@ -15,7 +15,7 @@ func GetCategory(c *gin.Context) {
 
     // Jika tidak ada parameter 'id', kembalikan seluruh data kategori
     if id == "" {
-        fileData, err := os.ReadFile("data/categories.json")
+        fileData, err := os.ReadFile("data/category/categories.json")
         if err != nil {
             c.JSON(http.StatusInternalServerError, gin.H{"error": "Error reading the JSON file"})
             return

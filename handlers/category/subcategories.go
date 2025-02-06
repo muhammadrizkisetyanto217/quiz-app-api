@@ -19,7 +19,7 @@ func GetSubcategory(c *gin.Context) {
 	}
 
 	// Membaca file category.json
-	fileData, err := os.ReadFile("data/subcategories.json")
+	fileData, err := os.ReadFile("data/category/subcategories.json")
 	if err != nil {
 		c.JSON(http.StatusInternalServerError, gin.H{"error": "Error reading the JSON file"})
 		return

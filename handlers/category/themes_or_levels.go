@@ -17,7 +17,7 @@ func GetThemesOrLevels(c *gin.Context) {
 		return
 	}
 
-	fileData, err := os.ReadFile("data/themes_or_levels.json")
+	fileData, err := os.ReadFile("data/category/themes_or_levels.json")
 	if err != nil {
 		c.JSON(http.StatusInternalServerError, gin.H{"error": "Error reading the JSON file"})
 		return
