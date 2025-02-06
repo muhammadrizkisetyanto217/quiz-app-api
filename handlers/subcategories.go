@@ -7,6 +7,7 @@ import (
 	"strconv"
 
 	"quiz-app-api/models"
+
 	"github.com/gin-gonic/gin"
 )
 
@@ -18,19 +19,29 @@ func GetSubcategory(c *gin.Context) {
 	}
 
 	// Membaca file category.json
-	fileData, err := os.ReadFile("data/subcategory.json")
+	fileData, err := os.ReadFile("data/subcategories.json")
 	if err != nil {
 		c.JSON(http.StatusInternalServerError, gin.H{"error": "Error reading the JSON file"})
 		return
 	}
 
+	//* Cara 1
 	// Membaca data ke dalam struct CategoryResponse
-	var response models.Response
-	err = json.Unmarshal(fileData, &response)
+	// var response models.Response
+	// err = json.Unmarshal(fileData, &response)
+	// if err != nil {
+	// 	c.JSON(http.StatusInternalServerError, gin.H{"error": "Error parsing JSON"})
+	// 	return
+	// }
+
+	//* Cara 2
+	response := &models.Response{} // Langsung sebagai pointer
+	err = json.Unmarshal(fileData, response)
 	if err != nil {
 		c.JSON(http.StatusInternalServerError, gin.H{"error": "Error parsing JSON"})
 		return
 	}
+
 
 	categoryIDInt, err := strconv.Atoi(categoryID) // Mengonversi 'category_id' menjadi integer
 	if err != nil {
@@ -39,6 +50,7 @@ func GetSubcategory(c *gin.Context) {
 	}
 
 	// Mencari subkategori berdasarkan category_id
+	// Filter berdasarkan category_id: Jika CategoryID dari subkategori sama dengan categoryIDInt, subkategori tersebut ditambahkan ke slice subcategories.
 	var subcategories []models.SubCategory
 	for _, subcategory := range response.Data {
 		if subcategory.CategoryID == categoryIDInt {
