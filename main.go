@@ -2,9 +2,11 @@ package main
 
 import (
 	"quiz-app-api/handlers/category"
+    "quiz-app-api/handlers/tooltips"
 
 	"github.com/gin-gonic/gin"
 )
+
 
 func main() {
 	r := gin.Default()
@@ -23,10 +25,12 @@ func main() {
         c.Next()
     })
 
-	r.GET("/subcategory", handlers.GetSubcategory)
-	r.GET("/category", handlers.GetCategory)
-	r.GET("/themes_or_levels", handlers.GetThemesOrLevels)
-	r.GET("/units", handlers.GetUnits)
+
+	r.GET("/subcategory", category.GetSubcategory)
+	r.GET("/category", category.GetCategory)
+	r.GET("/themes_or_levels", category.GetThemesOrLevels)
+	r.GET("/units", category.GetUnits)
+	r.GET("/tooltips", tooltips.GetTooltips)
 
 	r.Run(":8080") // Server berjalan di http://localhost:8080
 }

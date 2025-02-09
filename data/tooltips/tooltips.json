@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "keyword": "Islam",
+      "tooltip_short": "Islam adalah kepatuhan dan ketundukan kepada Allah ta'ala dengan menjalankan perintah-Nya dan menjauhi larangan-Nya. (Ali 'Imran: 19)",
+      "tooltip_long": "Islam adalah agama yang diturunkan oleh Allah kepada Nabi Muhammad ﷺ sebagai penyempurna agama-agama sebelumnya. Islam berarti berserah diri kepada Allah dengan tauhid, tunduk kepada-Nya dengan ketaatan, dan menjauhi kesyirikan serta kebatilan. Islam memiliki tiga tingkatan utama: Islam (syariat), Iman (kepercayaan), dan Ihsan (kesempurnaan ibadah). Dalil dari Al-Qur'an Ali Imran:85 'Barang siapa mencari agama selain Islam, maka sekali-kali tidaklah akan diterima (agama itu) darinya, dan di akhirat ia termasuk orang-orang yang rugi. dan dalil dari Hadits nabi Muhammadﷺ dari Bukhori Muslim:'Islam dibangun atas lima perkara: bersaksi bahwa tiada tuhan selain Allah dan Muhammad adalah utusan-Nya, mendirikan salat, menunaikan zakat, berpuasa di bulan Ramadhan, dan haji ke Baitullah bagi yang mampu.",
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 2,
+      "keyword": "Fiqh",
+      "tooltip_short": "'Fiqh adalah ilmu tentang hukum-hukum Allah yang berkaitan dengan perbuatan manusia, yang diambil dari dalil-dalilnya.'",
+      "tooltip_long": "Fiqh secara istilah adalah ilmu yang membahas hukum-hukum Islam yang berkaitan dengan amalan seorang Muslim, baik dalam ibadah maupun muamalah, yang diambil dari sumber-sumber syariat seperti Al-Qur’an, Hadis, Ijma’, dan Qiyas. Fiqh mencakup berbagai aspek kehidupan seperti shalat, zakat, puasa, pernikahan, transaksi, hingga hukum pidana dalam Islam. Dalil Hadits nabi Muhammadﷺ dari Bukhori Muslim 'Barang siapa yang dikehendaki kebaikan oleh Allah, maka Allah akan menjadikannya faqih (memahami) dalam agama' ",
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 3,
+      "keyword": "Tauhid",
+      "tooltip_short": "Menjadikan Allah ta'ala sebagai satu-satunya sesembahan yang benar",
+      "tooltip_long": "Tauhid secara bahasa berarti 'mengesakan' (menjadikan sesuatu satu). Dalam Islam, tauhid adalah inti dari ajaran yang dibawa oleh para nabi, yaitu meyakini keesaan Allah dalam segala aspek-Nya. Tauhid mengajarkan bahwa hanya Allah yang menciptakan, mengatur, dan menguasai alam semesta (Rububiyah), hanya Allah yang berhak disembah (Uluhiyah), dan Allah memiliki nama serta sifat yang sempurna (Asma’ wa Sifat). Tauhid adalah dasar dari Islam dan syarat utama diterimanya amal. Dalil dalam Al Qur'an An-Nahl: 36 'Dan sungguh, Kami telah mengutus rasul pada setiap umat (untuk menyerukan), 'Sembahlah Allah dan jauhilah thaghut''",
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 4,
+      "keyword": "Iman",
+      "tooltip_short": "Islam adalah agama yang sempurna",
+      "tooltip_long": "Islam adalah agama yang sempurna diturunkan Allah ta'ala kepada nabi shallahu alaihi wasallam",
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 5,
+      "keyword": "Allah",
+      "tooltip_short": "Islam adalah agama yang sempurna",
+      "tooltip_long": "Islam adalah agama yang sempurna diturunkan Allah ta'ala kepada nabi shallahu alaihi wasallam",
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 6,
+      "keyword": "Iman",
+      "tooltip_short": "Islam adalah agama yang sempurna",
+      "tooltip_long": "Islam adalah agama yang sempurna diturunkan Allah ta'ala kepada nabi shallahu alaihi wasallam",
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": null
+    }
+  ]
+}

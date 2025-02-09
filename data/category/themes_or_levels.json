@@ -3,9 +3,9 @@
     {
       "id": 1,
       "name": "Unit 1",
-      "description_short": "Pembahasan pengantar rukun iman",
-      "description_long": "<div className='fixed inset-0 bg-black bg-opacity-50 z-50 flex justify-center items-center p-5'><div className='p-6 rounded-lg shadow-lg w-full relative max-w-md bg-[#EEEEEE]'><div className='flex flex-col'><h2 className='text-lg font-[600] mb-3'>Pelajaran Keimanan Level-1</h2><h1 className='text-md font-[500] mb-1'>Apa itu tingkat dasar Islam ?</h1><p className='text-sm text-gray-700 leading-relaxed mb-2'>Adalah Pembelajaran yang disusun untuk memperdalam pemahaman tentang Rukun Iman, Tauhid, dan prinsip akidah, sehingga memperkokoh keyakinan serta nilai-nilai keislaman dalam kehidupan.</p><h1 className='text-md font-[500]'>Untuk siapa tingkatan ini?</h1><ol className='list-decimal pl-5 text-sm leading-relaxed mb-2'><li>Muslim yang ingin belajar dari dasar</li><li>Muallaf yang membutuhkan ilmu dan praktek dasar secara cepat</li><li>Peserta diluar agama islam yang ingin belajar ilmu islam</li></ol><h1 className='text-md font-[500] mb-1'>Kemampuan yang perlu disiapkan</h1><p className='text-sm leading-relaxed'>Cukup persiapkan diri karena materi dari dasar akan dibahas semudah mungkin</p></div><button className='mt-20 w-full text-[15px] font-medium py-2 px-4 border-none rounded-xl focus:outline-none focus:shadow-outline text-[#FFFFFF] bg-[#0961F5]'>Selesai Membaca</button></div></div>",
       "status": "active",
+      "description_short": "Pembahasan pengantar rukun iman",
+      "description_long": "<div className='fixed inset-0 bg-black bg-opacity-50 z-50 flex justify-center items-center p-5'><div className='p-6 rounded-lg shadow-lg w-full relative max-w-md bg-[#EEEEEE]'><div className='flex flex-col'><h2 className='text-lg font-[600] mb-3'>Pelajaran Keimanan Level-1</h2><h1 className='text-md font-[500] mb-1'>Apa itu tingkat dasar Islam ?</h1><p className='text-sm text-gray-700 leading-relaxed mb-2'>Adalah Pembelajaran yang disusun untuk memperdalam pemahaman tentang Rukun Iman, Tauhid, dan prinsip akidah, sehingga memperkokoh keyakinan serta nilai-nilai keislaman dalam kehidupan.</p><h1 className='text-md font-[500]'>Untuk siapa tingkatan ini?</h1><ol className='list-decimal pl-5 text-sm leading-relaxed mb-2'><li>Muslim yang ingin belajar dari dasar</li><li>Muallaf yang membutuhkan ilmu dan praktek dasar secara cepat</li><li>Peserta diluar agama islam yang ingin belajar ilmu islam</li></ol><h1 className='text-md font-[500] mb-1'>Kemampuan yang perlu disiapkan</h1><p className='text-sm leading-relaxed'>Cukup persiapkan diri karena materi dari dasar akan dibahas semudah mungkin</p></div></div></div>",
       "grade_total_unit": 0,
       "total_unit": 20,
       "completed_quizzes_article": 0,
@@ -19,13 +19,36 @@
     {
       "id": 2,
       "name": "Unit 2",
-      "description_short": "Pembagian rukun iman",
-      "description_long": "<div className='fixed inset-0 bg-black bg-opacity-50 z-50 flex justify-center items-center p-5'><div className='p-6 rounded-lg shadow-lg w-full relative max-w-md bg-[#EEEEEE]'><div className='flex flex-col'><h2 className='text-lg font-[600] mb-3'>Pelajaran Keimanan Level-1</h2><h1 className='text-md font-[500] mb-1'>Apa itu tingkat dasar Islam ?</h1><p className='text-sm text-gray-700 leading-relaxed mb-2'>Adalah Pembelajaran yang disusun untuk memperdalam pemahaman tentang Rukun Iman, Tauhid, dan prinsip akidah, sehingga memperkokoh keyakinan serta nilai-nilai keislaman dalam kehidupan.</p><h1 className='text-md font-[500]'>Untuk siapa tingkatan ini?</h1><ol className='list-decimal pl-5 text-sm leading-relaxed mb-2'><li>Muslim yang ingin belajar dari dasar</li><li>Muallaf yang membutuhkan ilmu dan praktek dasar secara cepat</li><li>Peserta diluar agama islam yang ingin belajar ilmu islam</li></ol><h1 className='text-md font-[500] mb-1'>Kemampuan yang perlu disiapkan</h1><p className='text-sm leading-relaxed'>Cukup persiapkan diri karena materi dari dasar akan dibahas semudah mungkin</p></div><button className='mt-20 w-full text-[15px] font-medium py-2 px-4 border-none rounded-xl focus:outline-none focus:shadow-outline text-[#FFFFFF] bg-[#0961F5]'>Selesai Membaca</button></div></div>",
       "status": "active",
+      "description_short": "Pembagian rukun iman",
+      "description_long": "<div className='fixed inset-0 bg-black bg-opacity-50 z-50 flex justify-center items-center p-5'><div className='p-6 rounded-lg shadow-lg w-full relative max-w-md bg-[#EEEEEE]'><div className='flex flex-col'><h2 className='text-lg font-[600] mb-3'>Pelajaran Keimanan Level-1</h2><h1 className='text-md font-[500] mb-1'>Apa itu tingkat dasar Islam ?</h1><p className='text-sm text-gray-700 leading-relaxed mb-2'>Adalah Pembelajaran yang disusun untuk memperdalam pemahaman tentang Rukun Iman, Tauhid, dan prinsip akidah, sehingga memperkokoh keyakinan serta nilai-nilai keislaman dalam kehidupan.</p><h1 className='text-md font-[500]'>Untuk siapa tingkatan ini?</h1><ol className='list-decimal pl-5 text-sm leading-relaxed mb-2'><li>Muslim yang ingin belajar dari dasar</li><li>Muallaf yang membutuhkan ilmu dan praktek dasar secara cepat</li><li>Peserta diluar agama islam yang ingin belajar ilmu islam</li></ol><h1 className='text-md font-[500] mb-1'>Kemampuan yang perlu disiapkan</h1><p className='text-sm leading-relaxed'>Cukup persiapkan diri karena materi dari dasar akan dibahas semudah mungkin</p></div></div></div>",
       "grade_total_unit": 0,
       "total_unit": 15,
       "completed_quizzes_article": 0,
       "total_quizzes_article": 15,
+      "update_news": [
+        {
+          "id": 1,
+          "title": "Materi dibuat",
+          "sub_title": "20 Unit dan 1 level",
+          "date": "2023-06-01T10:00:00Z",
+          "description": "Materi dibuat sebanyak 20 Unit pada 1 level'."
+        },
+        {
+          "id": 2,
+          "title": "Update ke-1",
+          "sub_title": "3 Unit",
+          "date": "2023-06-01T10:00:00Z",
+          "description": "3 Unit baru pada bagian level 2 dengan materi: 'Rukun Iman ke-4', 'Rukun Iman ke-5', 'Rukun Iman ke-6'."
+        },
+        {
+          "id": 3,
+          "title": "Update ke-2",
+          "sub_title": "6 Unit",
+          "date": "2023-06-01T10:00:00Z",
+          "description": "5 Unit baru pada bagian level 2 dengan materi: 'Rukun Islam ke-1', 'Rukun Islam ke-2', 'Rukun Islam ke-3', 'Rukun Islam ke-4', 'Rukun Islam ke-5', 'Rukun Islam ke-6'."
+        }
+      ],
       "image_url": "",
       "created_at": "2023-06-01T10:00:00Z",
       "updated_at": null,
@@ -35,13 +58,36 @@
     {
       "id": 3,
       "name": "Unit 3",
-      "description_short": "Pembahasan rukun iman mendalam",
-      "description_long": "<div className='fixed inset-0 bg-black bg-opacity-50 z-50 flex justify-center items-center p-5'><div className='p-6 rounded-lg shadow-lg w-full relative max-w-md bg-[#EEEEEE]'><div className='flex flex-col'><h2 className='text-lg font-[600] mb-3'>Pelajaran Keimanan Level-1</h2><h1 className='text-md font-[500] mb-1'>Apa itu tingkat dasar Islam ?</h1><p className='text-sm text-gray-700 leading-relaxed mb-2'>Adalah Pembelajaran yang disusun untuk memperdalam pemahaman tentang Rukun Iman, Tauhid, dan prinsip akidah, sehingga memperkokoh keyakinan serta nilai-nilai keislaman dalam kehidupan.</p><h1 className='text-md font-[500]'>Untuk siapa tingkatan ini?</h1><ol className='list-decimal pl-5 text-sm leading-relaxed mb-2'><li>Muslim yang ingin belajar dari dasar</li><li>Muallaf yang membutuhkan ilmu dan praktek dasar secara cepat</li><li>Peserta diluar agama islam yang ingin belajar ilmu islam</li></ol><h1 className='text-md font-[500] mb-1'>Kemampuan yang perlu disiapkan</h1><p className='text-sm leading-relaxed'>Cukup persiapkan diri karena materi dari dasar akan dibahas semudah mungkin</p></div><button className='mt-20 w-full text-[15px] font-medium py-2 px-4 border-none rounded-xl focus:outline-none focus:shadow-outline text-[#FFFFFF] bg-[#0961F5]'>Selesai Membaca</button></div></div>",
       "status": "active",
+      "description_short": "Pembahasan rukun iman mendalam",
+      "description_long": "<div className='fixed inset-0 bg-black bg-opacity-50 z-50 flex justify-center items-center p-5'><div className='p-6 rounded-lg shadow-lg w-full relative max-w-md bg-[#EEEEEE]'><div className='flex flex-col'><h2 className='text-lg font-[600] mb-3'>Pelajaran Keimanan Level-1</h2><h1 className='text-md font-[500] mb-1'>Apa itu tingkat dasar Islam ?</h1><p className='text-sm text-gray-700 leading-relaxed mb-2'>Adalah Pembelajaran yang disusun untuk memperdalam pemahaman tentang Rukun Iman, Tauhid, dan prinsip akidah, sehingga memperkokoh keyakinan serta nilai-nilai keislaman dalam kehidupan.</p><h1 className='text-md font-[500]'>Untuk siapa tingkatan ini?</h1><ol className='list-decimal pl-5 text-sm leading-relaxed mb-2'><li>Muslim yang ingin belajar dari dasar</li><li>Muallaf yang membutuhkan ilmu dan praktek dasar secara cepat</li><li>Peserta diluar agama islam yang ingin belajar ilmu islam</li></ol><h1 className='text-md font-[500] mb-1'>Kemampuan yang perlu disiapkan</h1><p className='text-sm leading-relaxed'>Cukup persiapkan diri karena materi dari dasar akan dibahas semudah mungkin</p></div></div></div>",
       "grade_total_unit": 0,
       "total_unit": 10,
       "completed_quizzes_article": 0,
       "total_quizzes_article": 10,
+      "update_news": [
+        {
+          "id": 1,
+          "title": "Materi dibuat",
+          "sub_title": "20 Unit dan 1 level",
+          "date": "2023-06-01T10:00:00Z",
+          "description": "Materi dibuat sebanyak 20 Unit pada 1 level'."
+        },
+        {
+          "id": 2,
+          "title": "Update ke-1",
+          "sub_title": "3 Unit",
+          "date": "2023-06-01T10:00:00Z",
+          "description": "3 Unit baru pada bagian level 2 dengan materi: 'Rukun Iman ke-4', 'Rukun Iman ke-5', 'Rukun Iman ke-6'."
+        },
+        {
+          "id": 3,
+          "title": "Update ke-2",
+          "sub_title": "6 Unit",
+          "date": "2023-06-01T10:00:00Z",
+          "description": "5 Unit baru pada bagian level 2 dengan materi: 'Rukun Islam ke-1', 'Rukun Islam ke-2', 'Rukun Islam ke-3', 'Rukun Islam ke-4', 'Rukun Islam ke-5', 'Rukun Islam ke-6'."
+        }
+      ],
       "image_url": "",
       "created_at": "2023-06-01T10:00:00Z",
       "updated_at": null,
@@ -51,13 +97,36 @@
     {
       "id": 4,
       "name": "Unit 4",
-      "description_short": "Penerapan rukun iman",
-      "description_long": "<div className='fixed inset-0 bg-black bg-opacity-50 z-50 flex justify-center items-center p-5'><div className='p-6 rounded-lg shadow-lg w-full relative max-w-md bg-[#EEEEEE]'><div className='flex flex-col'><h2 className='text-lg font-[600] mb-3'>Pelajaran Keimanan Level-1</h2><h1 className='text-md font-[500] mb-1'>Apa itu tingkat dasar Islam ?</h1><p className='text-sm text-gray-700 leading-relaxed mb-2'>Adalah Pembelajaran yang disusun untuk memperdalam pemahaman tentang Rukun Iman, Tauhid, dan prinsip akidah, sehingga memperkokoh keyakinan serta nilai-nilai keislaman dalam kehidupan.</p><h1 className='text-md font-[500]'>Untuk siapa tingkatan ini?</h1><ol className='list-decimal pl-5 text-sm leading-relaxed mb-2'><li>Muslim yang ingin belajar dari dasar</li><li>Muallaf yang membutuhkan ilmu dan praktek dasar secara cepat</li><li>Peserta diluar agama islam yang ingin belajar ilmu islam</li></ol><h1 className='text-md font-[500] mb-1'>Kemampuan yang perlu disiapkan</h1><p className='text-sm leading-relaxed'>Cukup persiapkan diri karena materi dari dasar akan dibahas semudah mungkin</p></div><button className='mt-20 w-full text-[15px] font-medium py-2 px-4 border-none rounded-xl focus:outline-none focus:shadow-outline text-[#FFFFFF] bg-[#0961F5]'>Selesai Membaca</button></div></div>",
       "status": "active",
+      "description_short": "Penerapan rukun iman",
+      "description_long": "<div className='fixed inset-0 bg-black bg-opacity-50 z-50 flex justify-center items-center p-5'><div className='p-6 rounded-lg shadow-lg w-full relative max-w-md bg-[#EEEEEE]'><div className='flex flex-col'><h2 className='text-lg font-[600] mb-3'>Pelajaran Keimanan Level-1</h2><h1 className='text-md font-[500] mb-1'>Apa itu tingkat dasar Islam ?</h1><p className='text-sm text-gray-700 leading-relaxed mb-2'>Adalah Pembelajaran yang disusun untuk memperdalam pemahaman tentang Rukun Iman, Tauhid, dan prinsip akidah, sehingga memperkokoh keyakinan serta nilai-nilai keislaman dalam kehidupan.</p><h1 className='text-md font-[500]'>Untuk siapa tingkatan ini?</h1><ol className='list-decimal pl-5 text-sm leading-relaxed mb-2'><li>Muslim yang ingin belajar dari dasar</li><li>Muallaf yang membutuhkan ilmu dan praktek dasar secara cepat</li><li>Peserta diluar agama islam yang ingin belajar ilmu islam</li></ol><h1 className='text-md font-[500] mb-1'>Kemampuan yang perlu disiapkan</h1><p className='text-sm leading-relaxed'>Cukup persiapkan diri karena materi dari dasar akan dibahas semudah mungkin</p></div></div></div>",
       "grade_total_unit": 0,
       "total_unit": 25,
       "completed_quizzes_article": 0,
       "total_quizzes_article": 25,
+      "update_news": [
+        {
+          "id": 1,
+          "title": "Materi dibuat",
+          "sub_title": "20 Unit dan 1 level",
+          "date": "2023-06-01T10:00:00Z",
+          "description": "Materi dibuat sebanyak 20 Unit pada 1 level'."
+        },
+        {
+          "id": 2,
+          "title": "Update ke-1",
+          "sub_title": "3 Unit",
+          "date": "2023-06-01T10:00:00Z",
+          "description": "3 Unit baru pada bagian level 2 dengan materi: 'Rukun Iman ke-4', 'Rukun Iman ke-5', 'Rukun Iman ke-6'."
+        },
+        {
+          "id": 3,
+          "title": "Update ke-2",
+          "sub_title": "6 Unit",
+          "date": "2023-06-01T10:00:00Z",
+          "description": "5 Unit baru pada bagian level 2 dengan materi: 'Rukun Islam ke-1', 'Rukun Islam ke-2', 'Rukun Islam ke-3', 'Rukun Islam ke-4', 'Rukun Islam ke-5', 'Rukun Islam ke-6'."
+        }
+      ],
       "image_url": "",
       "created_at": "2023-06-01T10:00:00Z",
       "updated_at": null,
@@ -67,13 +136,36 @@
     {
       "id": 5,
       "name": "Unit 1",
-      "description_short": "Pembahasan pengantar rukun islam.",
-      "description_long": "<div className='fixed inset-0 bg-black bg-opacity-50 z-50 flex justify-center items-center p-5'><div className='p-6 rounded-lg shadow-lg w-full relative max-w-md bg-[#EEEEEE]'><div className='flex flex-col'><h2 className='text-lg font-[600] mb-3'>Pelajaran Keimanan Level-1</h2><h1 className='text-md font-[500] mb-1'>Apa itu tingkat dasar Islam ?</h1><p className='text-sm text-gray-700 leading-relaxed mb-2'>Adalah Pembelajaran yang disusun untuk memperdalam pemahaman tentang Rukun Iman, Tauhid, dan prinsip akidah, sehingga memperkokoh keyakinan serta nilai-nilai keislaman dalam kehidupan.</p><h1 className='text-md font-[500]'>Untuk siapa tingkatan ini?</h1><ol className='list-decimal pl-5 text-sm leading-relaxed mb-2'><li>Muslim yang ingin belajar dari dasar</li><li>Muallaf yang membutuhkan ilmu dan praktek dasar secara cepat</li><li>Peserta diluar agama islam yang ingin belajar ilmu islam</li></ol><h1 className='text-md font-[500] mb-1'>Kemampuan yang perlu disiapkan</h1><p className='text-sm leading-relaxed'>Cukup persiapkan diri karena materi dari dasar akan dibahas semudah mungkin</p></div><button className='mt-20 w-full text-[15px] font-medium py-2 px-4 border-none rounded-xl focus:outline-none focus:shadow-outline text-[#FFFFFF] bg-[#0961F5]'>Selesai Membaca</button></div></div>",
       "status": "active",
+      "description_short": "Pembahasan pengantar rukun islam.",
+      "description_long": "<div className='fixed inset-0 bg-black bg-opacity-50 z-50 flex justify-center items-center p-5'><div className='p-6 rounded-lg shadow-lg w-full relative max-w-md bg-[#EEEEEE]'><div className='flex flex-col'><h2 className='text-lg font-[600] mb-3'>Pelajaran Keimanan Level-1</h2><h1 className='text-md font-[500] mb-1'>Apa itu tingkat dasar Islam ?</h1><p className='text-sm text-gray-700 leading-relaxed mb-2'>Adalah Pembelajaran yang disusun untuk memperdalam pemahaman tentang Rukun Iman, Tauhid, dan prinsip akidah, sehingga memperkokoh keyakinan serta nilai-nilai keislaman dalam kehidupan.</p><h1 className='text-md font-[500]'>Untuk siapa tingkatan ini?</h1><ol className='list-decimal pl-5 text-sm leading-relaxed mb-2'><li>Muslim yang ingin belajar dari dasar</li><li>Muallaf yang membutuhkan ilmu dan praktek dasar secara cepat</li><li>Peserta diluar agama islam yang ingin belajar ilmu islam</li></ol><h1 className='text-md font-[500] mb-1'>Kemampuan yang perlu disiapkan</h1><p className='text-sm leading-relaxed'>Cukup persiapkan diri karena materi dari dasar akan dibahas semudah mungkin</p></div></div></div>",
       "grade_total_unit": 0,
       "total_unit": 31,
       "completed_quizzes_article": 0,
       "total_quizzes_article": 31,
+      "update_news": [
+        {
+          "id": 1,
+          "title": "Materi dibuat",
+          "sub_title": "20 Unit dan 1 level",
+          "date": "2023-06-01T10:00:00Z",
+          "description": "Materi dibuat sebanyak 20 Unit pada 1 level'."
+        },
+        {
+          "id": 2,
+          "title": "Update ke-1",
+          "sub_title": "3 Unit",
+          "date": "2023-06-01T10:00:00Z",
+          "description": "3 Unit baru pada bagian level 2 dengan materi: 'Rukun Iman ke-4', 'Rukun Iman ke-5', 'Rukun Iman ke-6'."
+        },
+        {
+          "id": 3,
+          "title": "Update ke-2",
+          "sub_title": "6 Unit",
+          "date": "2023-06-01T10:00:00Z",
+          "description": "5 Unit baru pada bagian level 2 dengan materi: 'Rukun Islam ke-1', 'Rukun Islam ke-2', 'Rukun Islam ke-3', 'Rukun Islam ke-4', 'Rukun Islam ke-5', 'Rukun Islam ke-6'."
+        }
+      ],
       "image_url": "",
       "created_at": "2023-06-01T10:00:00Z",
       "updated_at": null,
@@ -83,13 +175,36 @@
     {
       "id": 6,
       "name": "Unit 2",
-      "description_short": "Pembagian rukun islam",
-      "description_long": "<div className='fixed inset-0 bg-black bg-opacity-50 z-50 flex justify-center items-center p-5'><div className='p-6 rounded-lg shadow-lg w-full relative max-w-md bg-[#EEEEEE]'><div className='flex flex-col'><h2 className='text-lg font-[600] mb-3'>Pelajaran Keimanan Level-1</h2><h1 className='text-md font-[500] mb-1'>Apa itu tingkat dasar Islam ?</h1><p className='text-sm text-gray-700 leading-relaxed mb-2'>Adalah Pembelajaran yang disusun untuk memperdalam pemahaman tentang Rukun Iman, Tauhid, dan prinsip akidah, sehingga memperkokoh keyakinan serta nilai-nilai keislaman dalam kehidupan.</p><h1 className='text-md font-[500]'>Untuk siapa tingkatan ini?</h1><ol className='list-decimal pl-5 text-sm leading-relaxed mb-2'><li>Muslim yang ingin belajar dari dasar</li><li>Muallaf yang membutuhkan ilmu dan praktek dasar secara cepat</li><li>Peserta diluar agama islam yang ingin belajar ilmu islam</li></ol><h1 className='text-md font-[500] mb-1'>Kemampuan yang perlu disiapkan</h1><p className='text-sm leading-relaxed'>Cukup persiapkan diri karena materi dari dasar akan dibahas semudah mungkin</p></div><button className='mt-20 w-full text-[15px] font-medium py-2 px-4 border-none rounded-xl focus:outline-none focus:shadow-outline text-[#FFFFFF] bg-[#0961F5]'>Selesai Membaca</button></div></div>",
       "status": "active",
+      "description_short": "Pembagian rukun islam",
+      "description_long": "<div className='fixed inset-0 bg-black bg-opacity-50 z-50 flex justify-center items-center p-5'><div className='p-6 rounded-lg shadow-lg w-full relative max-w-md bg-[#EEEEEE]'><div className='flex flex-col'><h2 className='text-lg font-[600] mb-3'>Pelajaran Keimanan Level-1</h2><h1 className='text-md font-[500] mb-1'>Apa itu tingkat dasar Islam ?</h1><p className='text-sm text-gray-700 leading-relaxed mb-2'>Adalah Pembelajaran yang disusun untuk memperdalam pemahaman tentang Rukun Iman, Tauhid, dan prinsip akidah, sehingga memperkokoh keyakinan serta nilai-nilai keislaman dalam kehidupan.</p><h1 className='text-md font-[500]'>Untuk siapa tingkatan ini?</h1><ol className='list-decimal pl-5 text-sm leading-relaxed mb-2'><li>Muslim yang ingin belajar dari dasar</li><li>Muallaf yang membutuhkan ilmu dan praktek dasar secara cepat</li><li>Peserta diluar agama islam yang ingin belajar ilmu islam</li></ol><h1 className='text-md font-[500] mb-1'>Kemampuan yang perlu disiapkan</h1><p className='text-sm leading-relaxed'>Cukup persiapkan diri karena materi dari dasar akan dibahas semudah mungkin</p></div></div></div>",
       "grade_total_unit": 0,
       "total_unit": 22,
       "completed_quizzes_article": 0,
       "total_quizzes_article": 22,
+      "update_news": [
+        {
+          "id": 1,
+          "title": "Materi dibuat",
+          "sub_title": "20 Unit dan 1 level",
+          "date": "2023-06-01T10:00:00Z",
+          "description": "Materi dibuat sebanyak 20 Unit pada 1 level'."
+        },
+        {
+          "id": 2,
+          "title": "Update ke-1",
+          "sub_title": "3 Unit",
+          "date": "2023-06-01T10:00:00Z",
+          "description": "3 Unit baru pada bagian level 2 dengan materi: 'Rukun Iman ke-4', 'Rukun Iman ke-5', 'Rukun Iman ke-6'."
+        },
+        {
+          "id": 3,
+          "title": "Update ke-2",
+          "sub_title": "6 Unit",
+          "date": "2023-06-01T10:00:00Z",
+          "description": "5 Unit baru pada bagian level 2 dengan materi: 'Rukun Islam ke-1', 'Rukun Islam ke-2', 'Rukun Islam ke-3', 'Rukun Islam ke-4', 'Rukun Islam ke-5', 'Rukun Islam ke-6'."
+        }
+      ],
       "image_url": "",
       "created_at": "2023-06-01T10:00:00Z",
       "updated_at": null,
