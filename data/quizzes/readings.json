@@ -4,10 +4,21 @@
       "id": 1,
       "title": "Pengantar Rukun Iman",
       "status": "active",
-      "description_long": "<div className='fixed inset-0 bg-black bg-opacity-50 z-50 flex justify-center items-center p-5'><div className='p-6 rounded-lg shadow-lg w-full relative max-w-md bg-[#EEEEEE]'><div className='flex flex-col'><h2 className='text-lg font-[600] mb-3'>Pengantar Rukun Iman</h2><p className='text-sm text-gray-700 leading-relaxed mb-2'>Dalil yang paling jelas dan langsung tentang urutan rukun iman adalah Hadis Jibril alaihissalam pada hadis riwayat Muslim (No. 8) yang berbunyi :</p><p className='text-sm text-gray-700 leading-relaxed mb-2'>Dari Umar bin Khattab radhiyallahu 'anhu, ia berkata:  Suatu hari kami duduk bersama Rasulullah ﷺ, lalu datang seorang laki-laki berpakaian sangat putih dan berambut sangat hitam (Jibril). Ia bertanya: 'Wahai Muhammad, kabarkan kepadaku tentang iman.' Rasulullah ﷺ menjawab: :</p><p className='text-sm text-gray-700 leading-relaxed mb-2'>'Iman adalah engkau beriman kepada Allah, malaikat-malaikat-Nya, kitab-kitab-Nya, rasul-rasul-Nya, hari akhir, dan engkau beriman kepada takdir yang baik maupun yang buruk.'Hadis ini secara eksplisit menyebutkan urutan rukun iman yang menjadi dasar keyakinan umat Islam.</p></div></div></div>",
-      "tooltips_keyword": "Islam, rukun, tauhid",
-      "tooltips_short": "Islam adalah agama yang Allah ta'ala ridhoi | rukun adalah kewajiban yang harus ditunaikan muslimin | Allah ta'ala adalah rabb pencipta alam | Tauhid adalah mengesakan Allah ta'ala dalam ibadah",
-      "tooltip_long": " ",
+      "description_long": "Dalil yang paling jelas dan langsung tentang urutan rukun iman adalah Hadist Jibril alaihissalam pada hadist riwayat Imam Muslim (No. 8) yang berbunyi : Dari Umar bin Khattab radhiyallahu 'anhu, ia berkata:  Suatu hari kami duduk bersama Rasulullah ﷺ, lalu datang seorang laki-laki berpakaian sangat putih dan berambut sangat hitam (Jibril). Ia bertanya: 'Wahai Muhammad, kabarkan kepadaku tentang iman.' Rasulullah ﷺ menjawab: 'Iman adalah engkau beriman kepada Allah, malaikat-malaikat-Nya, kitab-kitab-Nya, rasul-rasul-Nya, hari akhir, dan engkau beriman kepada takdir yang baik maupun yang buruk.'Hadist ini secara eksplisit menyebutkan urutan rukun iman yang menjadi dasar keyakinan umat Islam.",
+      "tooltip": [
+        {
+          "id": 1,
+          "keyword": "Islam",
+          "tooltip_short": "Islam adalah kepatuhan dan ketundukan kepada Allah ta'ala dengan menjalanka cn perintah-Nya dan menjauhi larangan-Nya. (Ali 'Imran: 19)",
+          "tooltip_long": "Islam adalah agama yang diturunkan oleh Allah kepada Nabi Muhammad ﷺ sebagai penyempurna agama-agama sebelumnya. Islam berarti berserah diri kepada Allah dengan tauhid, tunduk kepada-Nya dengan ketaatan, dan menjauhi kesyirikan serta kebatilan. Islam memiliki tiga tingkatan utama: Islam (syariat), Iman (kepercayaan), dan Ihsan (kesempurnaan ibadah). Dalil dari Al-Qur'an Ali Imran:85 'Barang siapa mencari agama selain Islam, maka sekali-kali tidaklah akan diterima (agama itu) darinya, dan di akhirat ia termasuk orang-orang yang rugi. dan dalil dari Hadits nabi Muhammadﷺ dari Bukhori Muslim:'Islam dibangun atas lima perkara: bersaksi bahwa tiada tuhan selain Allah dan Muhammad adalah utusan-Nya, mendirikan salat, menunaikan zakat, berpuasa di bulan Ramadhan, dan haji ke Baitullah bagi yang mampu."
+        },
+        {
+          "id": 2,
+          "keyword": "Umat",
+          "tooltip_short": "Umat berarti sekelompok orang yang memiliki kesamaan dalam agama, keyakinan, atau tujuan bersama.",
+          "tooltip_long": "Umat adalah sekelompok orang yang memiliki kesamaan dalam agama, keyakinan, dan nilai-nilai tertentu. Dalam konteks Islam, umat merujuk pada seluruh pengikut agama Islam, yang bersama-sama menjalankan perintah Allah dan mengikuti sunnah Nabi Muhammad ﷺ. Umat dapat mencakup seluruh umat Islam di dunia, atau dalam konteks tertentu, merujuk pada kelompok-kelompok tertentu yang mengikuti ajaran agama tersebut dengan ketaatan dan keyakinan yang sama."
+        }
+      ],
       "is_done": false,
       "donation_user_messages": [
         {
@@ -35,7 +46,7 @@
     },
     {
       "id": 2,
-      "title": "Rukun Ima Ke-1",
+      "title": "Rukun Iman Ke-1",
       "status": "active",
       "description_long": "<div className='fixed inset-0 bg-black bg-opacity-50 z-50 flex justify-center items-center p-5'><div className='p-6 rounded-lg shadow-lg w-full relative max-w-md bg-[#EEEEEE]'><div className='flex flex-col'><h2 className='text-lg font-[600] mb-3'>Pengantar Rukun Iman</h2><p className='text-sm text-gray-700 leading-relaxed mb-2'>Dalil yang paling jelas dan langsung tentang urutan rukun iman adalah Hadis Jibril alaihissalam pada hadis riwayat Muslim (No. 8) yang berbunyi :</p><p className='text-sm text-gray-700 leading-relaxed mb-2'>Dari Umar bin Khattab radhiyallahu 'anhu, ia berkata:  Suatu hari kami duduk bersama Rasulullah ﷺ, lalu datang seorang laki-laki berpakaian sangat putih dan berambut sangat hitam (Jibril). Ia bertanya: 'Wahai Muhammad, kabarkan kepadaku tentang iman.' Rasulullah ﷺ menjawab: :</p><p className='text-sm text-gray-700 leading-relaxed mb-2'>'Iman adalah engkau beriman kepada Allah, malaikat-malaikat-Nya, kitab-kitab-Nya, rasul-rasul-Nya, hari akhir, dan engkau beriman kepada takdir yang baik maupun yang buruk.'Hadis ini secara eksplisit menyebutkan urutan rukun iman yang menjadi dasar keyakinan umat Islam.</p></div></div></div>",
       "tooltips_keyword": "Islam, rukun, tauhid",

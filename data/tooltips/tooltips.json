@@ -40,12 +40,878 @@
       "created_at": "2023-06-01T10:00:00Z",
       "updated_at": null
     },
+
     {
       "id": 6,
       "keyword": "Iman",
       "tooltip_short": "Islam adalah agama yang sempurna",
       "tooltip_long": "Islam adalah agama yang sempurna diturunkan Allah ta'ala kepada nabi shallahu alaihi wasallam",
       "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 7,
+      "keyword": "Umat",
+      "tooltip_short": "Umat berarti sekelompok orang yang memiliki kesamaan dalam agama, keyakinan, atau tujuan bersama.",
+      "tooltip_long": "Umat adalah sekelompok orang yang memiliki kesamaan dalam agama, keyakinan, dan nilai-nilai tertentu. Dalam konteks Islam, umat merujuk pada seluruh pengikut agama Islam, yang bersama-sama menjalankan perintah Allah dan mengikuti sunnah Nabi Muhammad ﷺ. Umat dapat mencakup seluruh umat Islam di dunia, atau dalam konteks tertentu, merujuk pada kelompok-kelompok tertentu yang mengikuti ajaran agama tersebut dengan ketaatan dan keyakinan yang sama.",
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 8,
+      "keyword": "Dalil",
+      "tooltip_short": ".",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 9,
+      "keyword": "Rukun",
+      "tooltip_short": ".",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10,
+      "keyword": "Hadits",
+      "tooltip_short": ".",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": null
+    },
+
+    {
+      "id": 11,
+      "keyword": "Imam Bukhori",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 12,
+      "keyword": "Imam Muslim",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10000,
+      "keyword": "Nabi Adam",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10001,
+      "keyword": "Nabi Idris",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:01:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10002,
+      "keyword": "Nabi Nuh",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:02:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10003,
+      "keyword": "Nabi Hud",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:03:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10004,
+      "keyword": "Nabi Shaleh",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:04:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10005,
+      "keyword": "Nabi Ibrahim",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:05:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10006,
+      "keyword": "Nabi Luth",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:06:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10007,
+      "keyword": "Nabi Ismail",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:07:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10008,
+      "keyword": "Nabi Ishaq",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:08:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10009,
+      "keyword": "Nabi Ya'qub",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:09:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10010,
+      "keyword": "Nabi Yusuf",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:10:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10011,
+      "keyword": "Nabi Ayub",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:11:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10012,
+      "keyword": "Nabi Syu'aib",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:12:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10013,
+      "keyword": "Nabi Musa",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:13:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10014,
+      "keyword": "Nabi Harun",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:14:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10015,
+      "keyword": "Nabi Zulkifli",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:15:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10016,
+      "keyword": "Nabi Daud",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:16:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10017,
+      "keyword": "Nabi Sulaiman",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:17:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10018,
+      "keyword": "Nabi Ilyas",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:18:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10019,
+      "keyword": "Nabi Ilyasa",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:19:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10020,
+      "keyword": "Nabi Yunus",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:20:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10021,
+      "keyword": "Nabi Zakaria",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:21:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10022,
+      "keyword": "Nabi Yahya",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:22:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10023,
+      "keyword": "Nabi Isa",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:23:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10024,
+      "keyword": "Nabi Muhammad",
+      "tooltip_short": "",
+      "tooltip_long": "",
+      "created_at": "2023-06-01T10:24:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10025,
+      "keyword": "Abu Bakar Ash-Shiddiq",
+      "tooltip_short": "Sahabat pertama yang masuk Islam.",
+      "tooltip_long": "Abu Bakar Ash-Shiddiq adalah sahabat Nabi yang pertama kali masuk Islam dan menjadi khalifah pertama setelah wafatnya Nabi Muhammad.",
+      "created_at": "2023-06-01T10:25:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10026,
+      "keyword": "Umar bin Khattab",
+      "tooltip_short": "Khalifah kedua Islam.",
+      "tooltip_long": "Umar bin Khattab adalah khalifah kedua setelah Abu Bakar, dikenal dengan keadilan dan keberaniannya.",
+      "created_at": "2023-06-01T10:26:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10027,
+      "keyword": "Utsman bin Affan",
+      "tooltip_short": "Khalifah ketiga, dermawan.",
+      "tooltip_long": "Utsman bin Affan adalah khalifah ketiga yang dikenal dengan kedermawanannya dan menyusun mushaf Al-Qur'an.",
+      "created_at": "2023-06-01T10:27:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10028,
+      "keyword": "Ali bin Abi Thalib",
+      "tooltip_short": "Sepupu Nabi, khalifah keempat.",
+      "tooltip_long": "Ali bin Abi Thalib adalah sepupu sekaligus menantu Nabi Muhammad, terkenal dengan kebijaksanaan dan keberaniannya.",
+      "created_at": "2023-06-01T10:28:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10029,
+      "keyword": "Zubair bin Awwam",
+      "tooltip_short": "Sahabat Nabi dan panglima perang.",
+      "tooltip_long": "Zubair bin Awwam adalah sahabat Nabi yang termasuk 10 orang yang dijamin masuk surga dan dikenal sebagai panglima perang Islam.",
+      "created_at": "2023-06-01T10:29:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10030,
+      "keyword": "Talhah bin Ubaidillah",
+      "tooltip_short": "Pahlawan Perang Uhud.",
+      "tooltip_long": "Talhah bin Ubaidillah adalah salah satu sahabat yang dijamin masuk surga dan dikenal sebagai pahlawan dalam Perang Uhud.",
+      "created_at": "2023-06-01T10:30:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10031,
+      "keyword": "Abdurrahman bin Auf",
+      "tooltip_short": "Sahabat Nabi yang kaya dan dermawan.",
+      "tooltip_long": "Abdurrahman bin Auf adalah sahabat Nabi yang terkenal dengan kekayaannya dan kedermawanannya untuk perjuangan Islam.",
+      "created_at": "2023-06-01T10:31:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10032,
+      "keyword": "Sa'ad bin Abi Waqqash",
+      "tooltip_short": "Jenderal pasukan Islam.",
+      "tooltip_long": "Sa'ad bin Abi Waqqash adalah sahabat yang termasuk 10 orang yang dijamin masuk surga dan dikenal sebagai panglima Islam yang memenangkan Perang Qadisiyyah.",
+      "created_at": "2023-06-01T10:32:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10033,
+      "keyword": "Sa'id bin Zaid",
+      "tooltip_short": "Sahabat Nabi dan ahli zuhud.",
+      "tooltip_long": "Sa'id bin Zaid adalah salah satu sahabat Nabi yang dijamin masuk surga, dikenal sebagai sosok yang zuhud dan saleh.",
+      "created_at": "2023-06-01T10:33:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10034,
+      "keyword": "Abu Ubaidah bin Jarrah",
+      "tooltip_short": "Aminul Ummah (Orang kepercayaan umat).",
+      "tooltip_long": "Abu Ubaidah bin Jarrah adalah salah satu sahabat yang dijamin masuk surga dan dikenal sebagai panglima perang Islam serta orang kepercayaan umat.",
+      "created_at": "2023-06-01T10:34:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10035,
+      "keyword": "Maryam binti Imran",
+      "tooltip_short": "Ibu Nabi Isa, wanita suci.",
+      "tooltip_long": "Maryam binti Imran adalah ibu Nabi Isa, disebut sebagai wanita paling suci dalam Al-Qur'an.",
+      "created_at": "2023-06-01T10:35:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10036,
+      "keyword": "Luqman Al-Hakim",
+      "tooltip_short": "Dikenal dengan kebijaksanaan.",
+      "tooltip_long": "Luqman Al-Hakim adalah seorang yang dikenal dengan kebijaksanaannya, nasihatnya diabadikan dalam Surah Luqman.",
+      "created_at": "2023-06-01T10:36:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10037,
+      "keyword": "Ashabul Kahfi",
+      "tooltip_short": "Pemuda beriman yang tidur di gua.",
+      "tooltip_long": "Ashabul Kahfi adalah sekelompok pemuda beriman yang tidur selama ratusan tahun dalam gua untuk menyelamatkan iman mereka.",
+      "created_at": "2023-06-01T10:37:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10038,
+      "keyword": "Dzulkarnain",
+      "tooltip_short": "Raja saleh yang membangun tembok Ya'juj dan Ma'juj.",
+      "tooltip_long": "Dzulkarnain adalah seorang raja yang adil, disebut dalam Al-Qur'an sebagai pembangun tembok untuk menghalangi Ya'juj dan Ma'juj.",
+      "created_at": "2023-06-01T10:38:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10039,
+      "keyword": "Imran",
+      "tooltip_short": "Ayah Maryam dan keturunan mulia.",
+      "tooltip_long": "Imran adalah ayah dari Maryam binti Imran, dari keturunan yang diberkahi Allah.",
+      "created_at": "2023-06-01T10:39:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10040,
+      "keyword": "Asiyah binti Muzahim",
+      "tooltip_short": "Istri Fir'aun yang beriman.",
+      "tooltip_long": "Asiyah binti Muzahim adalah istri Fir'aun yang tetap beriman kepada Allah meskipun berada dalam lingkungan kekafiran.",
+      "created_at": "2023-06-01T10:40:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10041,
+      "keyword": "Habil",
+      "tooltip_short": "Anak Nabi Adam yang terbunuh.",
+      "tooltip_long": "Habil adalah anak Nabi Adam yang dibunuh oleh saudaranya, Qabil, dalam kisah pertama pembunuhan dalam sejarah manusia.",
+      "created_at": "2023-06-01T10:41:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10042,
+      "keyword": "Khidir",
+      "tooltip_short": "Hamba Allah yang memiliki ilmu khusus.",
+      "tooltip_long": "Khidir adalah sosok yang disebut dalam Al-Qur'an sebagai hamba Allah yang memiliki ilmu khusus dan bertemu dengan Nabi Musa.",
+      "created_at": "2023-06-01T10:42:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10043,
+      "keyword": "Thalut",
+      "tooltip_short": "Raja yang memimpin Bani Israil melawan Jalut.",
+      "tooltip_long": "Thalut adalah raja yang dipilih Allah untuk memimpin Bani Israil dalam pertempuran melawan Jalut, disebut dalam Al-Qur'an.",
+      "created_at": "2023-06-01T10:45:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10044,
+      "keyword": "Jalut",
+      "tooltip_short": "Raja zalim yang dikalahkan oleh Nabi Dawud.",
+      "tooltip_long": "Jalut adalah seorang pemimpin tirani yang akhirnya dikalahkan oleh Nabi Dawud dalam pertempuran, sebagaimana disebut dalam Al-Qur'an.",
+      "created_at": "2023-06-01T10:46:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10045,
+      "keyword": "Uzair",
+      "tooltip_short": "Sosok yang dikatakan hidup kembali setelah 100 tahun.",
+      "tooltip_long": "Uzair disebut dalam Al-Qur'an sebagai seseorang yang Allah tidurkan selama 100 tahun dan dibangkitkan kembali sebagai tanda kebesaran-Nya.",
+      "created_at": "2023-06-01T10:48:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10046,
+      "keyword": "Samiri",
+      "tooltip_short": "Orang yang membuat patung anak sapi emas.",
+      "tooltip_long": "Samiri adalah seorang yang menyesatkan Bani Israil dengan membuat patung anak sapi emas untuk disembah saat Nabi Musa pergi ke Gunung Sinai.",
+      "created_at": "2023-06-01T10:51:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10047,
+      "keyword": "Haman",
+      "tooltip_short": "Pejabat Fir'aun yang menentang Nabi Musa.",
+      "tooltip_long": "Haman adalah salah satu penasihat utama Fir'aun yang menentang dakwah Nabi Musa dan disebut dalam Al-Qur'an.",
+      "created_at": "2023-06-01T10:52:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10048,
+      "keyword": "Karun",
+      "tooltip_short": "Orang kaya sombong yang ditenggelamkan bumi.",
+      "tooltip_long": "Karun adalah seseorang yang diberi harta melimpah tetapi sombong dan akhirnya Allah benamkan ke dalam bumi.",
+      "created_at": "2023-06-01T10:53:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10049,
+      "keyword": "Istri Nabi Luth",
+      "tooltip_short": "Istri yang membangkang perintah Allah.",
+      "tooltip_long": "Istri Nabi Luth adalah salah satu orang yang tidak mengikuti ajaran suaminya dan dihancurkan bersama kaum Luth.",
+      "created_at": "2023-06-01T10:54:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10050,
+      "keyword": "Istri Nabi Nuh",
+      "tooltip_short": "Istri yang tidak beriman kepada suaminya.",
+      "tooltip_long": "Istri Nabi Nuh disebut dalam Al-Qur'an sebagai orang yang ingkar terhadap risalah suaminya dan termasuk dalam golongan orang yang dihancurkan.",
+      "created_at": "2023-06-01T10:55:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10051,
+      "keyword": "Fir'aun",
+      "tooltip_short": "Raja zalim yang menentang Nabi Musa.",
+      "tooltip_long": "Fir'aun adalah raja Mesir yang menentang dakwah Nabi Musa dan akhirnya ditenggelamkan di Laut Merah.",
+      "created_at": "2023-06-01T11:05:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10052,
+      "keyword": "Abu Lahab",
+      "tooltip_short": "Paman Nabi Muhammad yang menentang Islam.",
+      "tooltip_long": "Abu Lahab adalah paman Nabi Muhammad yang menentang dakwah Islam dan disebut dalam surat Al-Lahab.",
+      "created_at": "2023-06-01T11:06:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10053,
+      "keyword": "Uwais al-Qarni",
+      "tooltip_short": "Tabi’in yang sangat berbakti kepada ibunya.",
+      "tooltip_long": "Uwais al-Qarni adalah seorang tabi’in yang sangat berbakti kepada ibunya. Rasulullah ﷺ menyebutnya sebagai orang yang doanya mustajab.",
+      "created_at": "2023-06-01T11:07:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10054,
+      "keyword": "Salman Al-Farisi",
+      "tooltip_short": "Sahabat Nabi yang mencari kebenaran.",
+      "tooltip_long": "Salman Al-Farisi berasal dari Persia dan mencari agama yang benar hingga akhirnya masuk Islam dan menjadi sahabat Nabi Muhammad ﷺ.",
+      "created_at": "2023-06-01T11:08:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10055,
+      "keyword": "Bilal bin Rabah",
+      "tooltip_short": "Muadzin pertama dalam Islam.",
+      "tooltip_long": "Bilal bin Rabah adalah seorang budak yang disiksa karena keislamannya, tetapi tetap teguh. Ia menjadi muadzin pertama dalam Islam.",
+      "created_at": "2023-06-01T11:09:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10056,
+      "keyword": "Abu Jahl",
+      "tooltip_short": "Musuh utama Islam di Makkah.",
+      "tooltip_long": "Abu Jahl adalah pemimpin Quraisy yang sangat menentang dakwah Islam dan sering menyakiti Nabi Muhammad ﷺ.",
+      "created_at": "2023-06-01T11:11:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10057,
+      "keyword": "Utbah bin Rabi’ah",
+      "tooltip_short": "Tokoh Quraisy yang menolak Islam.",
+      "tooltip_long": "Utbah bin Rabi’ah adalah salah satu pemimpin Quraisy yang menolak Islam dan akhirnya tewas dalam Perang Badar.",
+      "created_at": "2023-06-01T11:12:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10058,
+      "keyword": "Abdullah bin Ubay bin Salul",
+      "tooltip_short": "Pemimpin kaum munafik di Madinah.",
+      "tooltip_long": "Abdullah bin Ubay bin Salul adalah pemimpin munafik yang sering berkhianat terhadap Nabi Muhammad ﷺ.",
+      "created_at": "2023-06-01T11:13:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10059,
+      "keyword": "Musailamah al-Kadzab",
+      "tooltip_short": "Nabi palsu di zaman Nabi Muhammad ﷺ.",
+      "tooltip_long": "Musailamah al-Kadzab adalah seorang yang mengaku sebagai nabi, tetapi akhirnya terbunuh dalam pertempuran melawan pasukan Muslim.",
+      "created_at": "2023-06-01T11:14:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10060,
+      "keyword": "Tulayhah bin Khuwaylid",
+      "tooltip_short": "Nabi palsu yang akhirnya bertobat.",
+      "tooltip_long": "Tulayhah bin Khuwaylid adalah seorang yang mengaku sebagai nabi, tetapi kemudian bertobat dan masuk Islam kembali.",
+      "created_at": "2023-06-01T11:15:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10061,
+      "keyword": "Hassan bin Tsabit",
+      "tooltip_short": "Penyair Rasulullah ﷺ.",
+      "tooltip_long": "Hassan bin Tsabit adalah sahabat Nabi yang membela Islam dengan syair-syairnya dan dijuluki penyair Rasulullah ﷺ.",
+      "created_at": "2023-06-01T11:18:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10062,
+      "keyword": "Al-Miqdad bin Amr",
+      "tooltip_short": "Sahabat Nabi yang berani.",
+      "tooltip_long": "Al-Miqdad bin Amr adalah sahabat Nabi Muhammad ﷺ yang dikenal karena keberanian dan kesetiaannya dalam perang.",
+      "created_at": "2023-06-01T11:19:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10063,
+      "keyword": "Thariq bin Ziyad",
+      "tooltip_short": "Panglima Muslim yang menaklukkan Spanyol.",
+      "tooltip_long": "Thariq bin Ziyad adalah seorang jenderal Muslim yang menaklukkan Spanyol pada tahun 711 M dan membuka jalan bagi peradaban Islam di Eropa.",
+      "created_at": "2023-06-01T11:20:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10064,
+      "keyword": "Walid bin Mughirah",
+      "tooltip_short": "Tokoh Quraisy yang menolak Islam.",
+      "tooltip_long": "Walid bin Mughirah adalah salah satu tokoh Quraisy yang menolak wahyu dan disebut dalam Al-Qur'an (QS. Al-Muddaththir: 11-26).",
+      "created_at": "2023-06-01T11:22:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10065,
+      "keyword": "Umayyah bin Khalaf",
+      "tooltip_short": "Majikan Bilal yang menentang Islam.",
+      "tooltip_long": "Umayyah bin Khalaf adalah seorang pemimpin Quraisy yang menyiksa Bilal bin Rabah karena keislamannya.",
+      "created_at": "2023-06-01T11:23:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10066,
+      "keyword": "Abu Talib",
+      "tooltip_short": "Paman Nabi Muhammad ﷺ.",
+      "tooltip_long": "Abu Talib adalah paman Nabi Muhammad ﷺ yang mendukung beliau sejak kecil hingga dewasa, meskipun ia tidak memeluk Islam.",
+      "created_at": "2023-06-01T11:39:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10067,
+      "keyword": "Abu Sufyan",
+      "tooltip_short": "Pemimpin Quraisy yang akhirnya masuk Islam.",
+      "tooltip_long": "Abu Sufyan adalah pemimpin Quraisy yang menentang Nabi Muhammad ﷺ di awal Islam, namun kemudian masuk Islam setelah perang Uhud.",
+      "created_at": "2023-06-01T11:40:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10068,
+      "keyword": "Khalid bin Walid",
+      "tooltip_short": "Panglima perang yang dijuluki 'Saifullah'.",
+      "tooltip_long": "Khalid bin Walid adalah salah satu panglima perang terkenal dalam sejarah Islam, dijuluki 'Saifullah' (Pedang Allah) karena keberaniannya.",
+      "created_at": "2023-06-01T11:41:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10069,
+      "keyword": "Aisyah binti Abi Bakr",
+      "tooltip_short": "Istri Nabi Muhammad ﷺ dan ibu dari umat Muslim.",
+      "tooltip_long": "Aisyah binti Abi Bakr adalah istri Nabi Muhammad ﷺ yang sangat berpengaruh dalam sejarah Islam, terkenal dengan pengetahuan dan peranannya dalam hadis.",
+      "created_at": "2023-06-01T11:42:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10070,
+      "keyword": "Umm Salamah",
+      "tooltip_short": "Istri Nabi Muhammad ﷺ dan seorang wanita yang bijaksana.",
+      "tooltip_long": "Umm Salamah adalah salah satu istri Nabi Muhammad ﷺ yang terkenal dengan kebijaksanaannya dan menjadi sumber banyak hadis.",
+      "created_at": "2023-06-01T11:43:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10071,
+      "keyword": "Abu Hurairah",
+      "tooltip_short": "Sahabat Nabi dengan jumlah hadis terbanyak.",
+      "tooltip_long": "Abu Hurairah adalah sahabat Nabi Muhammad ﷺ yang paling banyak meriwayatkan hadis dan sangat dihormati dalam ilmu hadis.",
+      "created_at": "2023-06-01T11:44:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10072,
+      "keyword": "Zaid bin Haritsa",
+      "tooltip_short": "Sahabat Nabi dan anak angkat Nabi Muhammad ﷺ.",
+      "tooltip_long": "Zaid bin Haritha adalah sahabat Nabi Muhammad ﷺ yang menjadi anak angkat Nabi hingga diturunkannya ayat tentang penghapusan status anak angkat.",
+      "created_at": "2023-06-01T11:39:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10073,
+      "keyword": "Khadijah binti Khuwaylid",
+      "tooltip_short": "Istri pertama Nabi Muhammad ﷺ dan wanita pertama yang memeluk Islam.",
+      "tooltip_long": "Khadijah binti Khuwaylid adalah istri pertama Nabi Muhammad ﷺ dan wanita pertama yang memeluk Islam. Ia berperan besar dalam mendukung dakwah Nabi.",
+      "created_at": "2023-06-01T11:44:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10074,
+      "keyword": "Saudah binti Zam’ah",
+      "tooltip_short": "Istri kedua Nabi Muhammad ﷺ setelah wafatnya Khadijah.",
+      "tooltip_long": "Saudah binti Zam’ah adalah istri Nabi Muhammad ﷺ yang dinikahi setelah wafatnya Khadijah. Ia dikenal dengan sifatnya yang humoris dan penyayang.",
+      "created_at": "2023-06-01T11:50:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10075,
+      "keyword": "Hafshah binti Umar",
+      "tooltip_short": "Istri Nabi Muhammad ﷺ, putri Umar bin Khattab.",
+      "tooltip_long": "Hafshah binti Umar adalah istri Nabi Muhammad ﷺ yang dikenal sebagai penjaga mushaf Al-Qur’an pertama dan putri dari Umar bin Khattab.",
+      "created_at": "2023-06-01T11:52:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10076,
+      "keyword": "Zainab binti Khuzaymah",
+      "tooltip_short": "Istri Nabi yang dikenal sebagai 'Ibu Orang-orang Miskin'.",
+      "tooltip_long": "Zainab binti Khuzaymah adalah istri Nabi Muhammad ﷺ yang dikenal dengan kemurahannya kepada orang miskin. Ia hanya hidup bersama Nabi selama beberapa bulan sebelum wafat.",
+      "created_at": "2023-06-01T11:53:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10077,
+      "keyword": "Zainab binti Jahsy",
+      "tooltip_short": "Istri Nabi Muhammad ﷺ yang berasal dari keturunan bangsawan Quraisy.",
+      "tooltip_long": "Zainab binti Jahsy adalah istri Nabi Muhammad ﷺ yang sebelumnya menikah dengan Zaid bin Haritha. Pernikahannya dengan Nabi adalah ketetapan dari Allah dalam Al-Qur'an.",
+      "created_at": "2023-06-01T11:55:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10078,
+      "keyword": "Juwayriyyah binti Al-Harith",
+      "tooltip_short": "Istri Nabi Muhammad ﷺ yang berasal dari Bani Musthaliq.",
+      "tooltip_long": "Juwayriyyah binti Al-Harith adalah istri Nabi Muhammad ﷺ yang berasal dari tawanan perang Bani Musthaliq. Pernikahannya membawa keberkahan bagi kaumnya yang akhirnya masuk Islam.",
+      "created_at": "2023-06-01T11:56:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10079,
+      "keyword": "Ummu Habibah",
+      "tooltip_short": "Istri Nabi Muhammad ﷺ, putri Abu Sufyan.",
+      "tooltip_long": "Ummu Habibah adalah istri Nabi Muhammad ﷺ yang sebelumnya berhijrah ke Habasyah bersama suaminya yang kemudian murtad. Ia dinikahi oleh Nabi dengan mahar dari Raja Najasyi.",
+      "created_at": "2023-06-01T11:57:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10080,
+      "keyword": "Safiyyah binti Huyay",
+      "tooltip_short": "Istri Nabi Muhammad ﷺ yang berasal dari keturunan Bani Nadhir.",
+      "tooltip_long": "Safiyyah binti Huyay adalah istri Nabi Muhammad ﷺ yang berasal dari keturunan Yahudi Bani Nadhir. Ia masuk Islam setelah menikah dengan Nabi dan menjadi bagian dari keluarga Rasulullah.",
+      "created_at": "2023-06-01T11:58:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10081,
+      "keyword": "Maimunah binti Al-Harith",
+      "tooltip_short": "Istri terakhir Nabi Muhammad ﷺ.",
+      "tooltip_long": "Maimunah binti Al-Harith adalah istri terakhir Nabi Muhammad ﷺ. Ia menawarkan dirinya untuk dinikahi oleh Nabi sebagai bentuk keimanannya.",
+      "created_at": "2023-06-01T11:59:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10082,
+      "keyword": "Qasim bin Muhammad",
+      "tooltip_short": "Putra pertama Nabi Muhammad ﷺ yang meninggal saat masih kecil.",
+      "tooltip_long": "Qasim bin Muhammad adalah putra pertama Nabi Muhammad ﷺ dari Khadijah binti Khuwaylid. Ia wafat saat masih kecil, sebelum mencapai usia dewasa.",
+      "created_at": "2023-06-01T12:00:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10083,
+      "keyword": "Zainab binti Muhammad",
+      "tooltip_short": "Putri sulung Nabi Muhammad ﷺ yang menikah dengan Abul 'As bin Rabi'.",
+      "tooltip_long": "Zainab binti Muhammad adalah putri sulung Nabi Muhammad ﷺ dari Khadijah binti Khuwaylid. Ia menikah dengan Abul 'As bin Rabi' dan memiliki keturunan. Ia wafat pada tahun 8 Hijriah.",
+      "created_at": "2023-06-01T12:01:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10084,
+      "keyword": "Ruqayyah binti Muhammad",
+      "tooltip_short": "Putri Nabi Muhammad ﷺ yang menikah dengan Utsman bin Affan.",
+      "tooltip_long": "Ruqayyah binti Muhammad adalah putri Nabi Muhammad ﷺ yang menikah dengan Utsman bin Affan. Ia wafat pada tahun 2 Hijriah saat perang Badar berlangsung.",
+      "created_at": "2023-06-01T12:02:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10085,
+      "keyword": "Ummu Kultsum binti Muhammad",
+      "tooltip_short": "Putri Nabi Muhammad ﷺ yang juga menikah dengan Utsman bin Affan.",
+      "tooltip_long": "Ummu Kultsum binti Muhammad adalah putri Nabi Muhammad ﷺ yang dinikahi oleh Utsman bin Affan setelah wafatnya Ruqayyah. Karena itu, Utsman mendapat gelar 'Dzun Nurain' (Pemilik Dua Cahaya).",
+      "created_at": "2023-06-01T12:03:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10086,
+      "keyword": "Fatimah binti Muhammad",
+      "tooltip_short": "Putri Nabi Muhammad ﷺ yang menikah dengan Ali bin Abi Thalib.",
+      "tooltip_long": "Fatimah binti Muhammad adalah putri Nabi Muhammad ﷺ yang menikah dengan Ali bin Abi Thalib. Dari keturunannya lahir Hasan dan Husain, cucu kesayangan Nabi. Ia wafat enam bulan setelah wafatnya Nabi.",
+      "created_at": "2023-06-01T12:04:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10087,
+      "keyword": "Abdullah bin Muhammad",
+      "tooltip_short": "Putra Nabi Muhammad ﷺ yang meninggal saat masih bayi.",
+      "tooltip_long": "Abdullah bin Muhammad, juga dikenal sebagai 'At-Thayyib' atau 'At-Tahir', adalah putra Nabi Muhammad ﷺ dari Khadijah binti Khuwaylid yang meninggal saat masih bayi.",
+      "created_at": "2023-06-01T12:05:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10088,
+      "keyword": "Ibrahim bin Muhammad",
+      "tooltip_short": "Putra Nabi Muhammad ﷺ dari Maria Al-Qibthiyah yang meninggal saat bayi.",
+      "tooltip_long": "Ibrahim bin Muhammad adalah putra Nabi Muhammad ﷺ dari Maria Al-Qibthiyah. Ia meninggal saat berusia sekitar 16-18 bulan, dan Nabi sangat bersedih atas kepergiannya.",
+      "created_at": "2023-06-01T12:06:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10089,
+      "keyword": "Ummu Aiman (Barakah)",
+      "tooltip_short": "Pengasuh Nabi Muhammad ﷺ yang juga termasuk orang pertama masuk Islam.",
+      "tooltip_long": "Ummu Aiman, atau Barakah, adalah pengasuh Nabi Muhammad ﷺ sejak kecil. Ia adalah salah satu Muslim pertama dan sangat dicintai oleh Nabi.",
+      "created_at": "2023-06-01T12:11:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10090,
+      "keyword": "Ammar bin Yasir",
+      "tooltip_short": "Sahabat Nabi yang keluarganya disiksa karena Islam.",
+      "tooltip_long": "Ammar bin Yasir adalah salah satu sahabat pertama yang masuk Islam. Keluarganya, termasuk ibunya Sumayyah, menjadi martir pertama dalam Islam.",
+      "created_at": "2023-06-01T12:18:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10091,
+      "keyword": "Sumayyah binti Khayyat",
+      "tooltip_short": "Muslimah pertama yang mati syahid.",
+      "tooltip_long": "Sumayyah binti Khayyat adalah salah satu Muslim pertama dan menjadi wanita pertama yang mati syahid setelah disiksa oleh Quraisy.",
+      "created_at": "2023-06-01T12:19:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10092,
+      "keyword": "Salman Al-Farisi",
+      "tooltip_short": "Sahabat Nabi yang berasal dari Persia.",
+      "tooltip_long": "Salman Al-Farisi adalah seorang pencari kebenaran dari Persia yang akhirnya masuk Islam dan menjadi sahabat dekat Nabi. Ia berperan dalam strategi perang Khandaq.",
+      "created_at": "2023-06-01T12:22:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10093,
+      "keyword": "Suhaib Ar-Rumi",
+      "tooltip_short": "Sahabat Nabi yang berasal dari Romawi.",
+      "tooltip_long": "Suhaib Ar-Rumi adalah seorang budak yang berasal dari Romawi. Ia masuk Islam di Mekah dan menjadi salah satu sahabat awal yang berhijrah ke Madinah.",
+      "created_at": "2023-06-01T12:23:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10094,
+      "keyword": "Ikrimah bin Abu Jahal",
+      "tooltip_short": "Putra Abu Jahal yang akhirnya masuk Islam.",
+      "tooltip_long": "Ikrimah bin Abu Jahal awalnya adalah musuh Islam seperti ayahnya, tetapi setelah Fathu Makkah, ia masuk Islam dan menjadi salah satu pejuang Islam yang tangguh.",
+      "created_at": "2023-06-01T12:24:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10095,
+      "keyword": "Hasan bin Ali",
+      "tooltip_short": "Cucu Nabi dan khalifah ke-5.",
+      "tooltip_long": "Hasan bin Ali adalah putra Ali bin Abi Thalib dan cucu Nabi Muhammad ﷺ. Ia sempat menjadi khalifah setelah ayahnya dan memilih berdamai dengan Muawiyah.",
+      "created_at": "2023-06-01T12:25:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10096,
+      "keyword": "Husain bin Ali",
+      "tooltip_short": "Cucu Nabi yang gugur di Karbala.",
+      "tooltip_long": "Husain bin Ali adalah putra Ali bin Abi Thalib dan cucu Nabi Muhammad ﷺ. Ia terbunuh dalam Tragedi Karbala saat melawan pasukan Yazid bin Muawiyah.",
+      "created_at": "2023-06-01T12:26:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10097,
+      "keyword": "Uqbah bin Abi Mu'ayt",
+      "tooltip_short": "Orang yang menyiksa Nabi Muhammad ﷺ.",
+      "tooltip_long": "Uqbah bin Abi Mu'ayt adalah pemimpin Quraisy yang pernah menaruh kotoran unta di punggung Nabi saat shalat.",
+      "created_at": "2023-06-01T12:33:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10098,
+      "keyword": "Usamah bin Zaid",
+      "tooltip_short": "Panglima pasukan Islam di usia muda.",
+      "tooltip_long": "Usamah bin Zaid adalah putra Zaid bin Haritsah dan diangkat menjadi panglima pasukan Islam oleh Nabi Muhammad ﷺ dalam usia muda.",
+      "created_at": "2023-06-01T12:38:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10099,
+      "keyword": "Hindun binti Utbah",
+      "tooltip_short": "Istri Abu Sufyan yang dulu memusuhi Islam.",
+      "tooltip_long": "Hindun adalah istri Abu Sufyan dan dikenal karena keterlibatannya dalam Perang Uhud. Ia kemudian masuk Islam setelah Fathu Makkah.",
+      "created_at": "2023-06-01T12:44:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10100,
+      "keyword": "Habbar bin Al-Aswad",
+      "tooltip_short": "Orang yang menyerang putri Nabi.",
+      "tooltip_long": "Habbar bin Al-Aswad adalah salah satu orang yang menyerang Zainab binti Muhammad saat hijrah, menyebabkan kegugurannya.",
+      "created_at": "2023-06-01T12:45:00Z",
+      "updated_at": null
+    },
+    {
+      "id": 10101,
+      "keyword": "Ka'ab bin Al-Asyraf",
+      "tooltip_short": "Tokoh Yahudi yang menentang Islam.",
+      "tooltip_long": "Ka'ab bin Al-Asyraf adalah pemimpin Yahudi yang menghasut Quraisy untuk memerangi Nabi Muhammad ﷺ.",
+      "created_at": "2023-06-01T12:47:00Z",
       "updated_at": null
     }
   ]
