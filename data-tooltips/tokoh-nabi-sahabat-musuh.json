@@ -817,6 +817,1030 @@
           "tooltip_long": "Ka'ab bin Al-Asyraf adalah pemimpin Yahudi yang menghasut Quraisy untuk memerangi Nabi Muhammad ﷺ.",
           "created_at": "2023-06-01T12:47:00Z",
           "updated_at": null
+        },
+        {
+          "id": 10101,
+          "keyword": "Ya'juj dan Ma'juj",
+          "tooltip_short": "Kaum perusak yang disebut dalam Al-Qur'an.",
+          "tooltip_long": "Ya'juj dan Ma'juj adalah kaum yang disebut dalam Al-Qur'an sebagai perusak yang akan muncul menjelang hari kiamat. Mereka pernah dibendung oleh Dzulqarnain dengan tembok besar yang kokoh.",
+          "created_at": "2023-06-01T12:49:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10102,
+          "keyword": "Habil",
+          "tooltip_short": "Putra Nabi Adam yang dibunuh saudaranya.",
+          "tooltip_long": "Habil adalah salah satu putra Nabi Adam. Ia dibunuh oleh saudaranya, Qabil, dalam peristiwa pembunuhan pertama dalam sejarah manusia yang disebut dalam Al-Qur'an.",
+          "created_at": "2023-06-01T12:50:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10103,
+          "keyword": "Hawa",
+          "tooltip_short": "Istri Nabi Adam dan ibu umat manusia.",
+          "tooltip_long": "Hawa (Hawwa') adalah istri Nabi Adam dan ibu dari seluruh umat manusia. Ia diciptakan oleh Allah dari diri Adam dan tinggal bersamanya di surga sebelum diturunkan ke bumi.",
+          "created_at": "2023-06-01T12:51:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10104,
+          "keyword": "Kan'an bin Nuh",
+          "tooltip_short": "Anak Nabi Nuh yang menolak beriman.",
+          "tooltip_long": "Kan'an bin Nuh adalah salah satu anak Nabi Nuh yang menolak beriman dan menolak naik ke kapal saat banjir besar. Ia memilih berlindung di gunung, tetapi akhirnya tenggelam dalam azab Allah.",
+          "created_at": "2023-06-01T12:52:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10105,
+          "keyword": "Wadd",
+          "tooltip_short": "Salah satu berhala kaum Nabi Nuh.",
+          "tooltip_long": "Wadd adalah salah satu berhala yang disembah oleh kaum Nabi Nuh. Disebut dalam Al-Qur'an (QS. Nuh: 23) bersama dengan berhala lainnya.",
+          "created_at": "2023-06-01T12:53:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10106,
+          "keyword": "Suwa'",
+          "tooltip_short": "Berhala yang disembah oleh kaum Nabi Nuh.",
+          "tooltip_long": "Suwa' adalah salah satu dari lima berhala utama kaum Nabi Nuh yang disebut dalam Al-Qur'an (QS. Nuh: 23).",
+          "created_at": "2023-06-01T12:54:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10107,
+          "keyword": "Yaghuts",
+          "tooltip_short": "Salah satu berhala kaum Nabi Nuh.",
+          "tooltip_long": "Yaghuts adalah berhala yang disembah oleh kaum Nabi Nuh. Namanya disebut dalam Al-Qur'an (QS. Nuh: 23).",
+          "created_at": "2023-06-01T12:55:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10108,
+          "keyword": "Ya'uq",
+          "tooltip_short": "Berhala dalam sejarah kaum Nabi Nuh.",
+          "tooltip_long": "Ya'uq adalah salah satu berhala utama kaum Nabi Nuh, sebagaimana disebut dalam Al-Qur'an (QS. Nuh: 23).",
+          "created_at": "2023-06-01T12:56:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10109,
+          "keyword": "Nasr",
+          "tooltip_short": "Berhala dalam sejarah kaum Nabi Nuh.",
+          "tooltip_long": "Nasr adalah salah satu berhala yang disembah oleh kaum Nabi Nuh dan disebut dalam Al-Qur'an (QS. Nuh: 23).",
+          "created_at": "2023-06-01T12:57:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10110,
+          "keyword": "Latta",
+          "tooltip_short": "Berhala yang disembah oleh kaum Quraisy.",
+          "tooltip_long": "Latta adalah salah satu berhala utama yang disembah oleh kaum Quraisy sebelum Islam. Disebut dalam Al-Qur'an (QS. An-Najm: 19-20).",
+          "created_at": "2023-06-01T12:58:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10111,
+          "keyword": "Uzza",
+          "tooltip_short": "Berhala yang diagungkan oleh kaum Quraisy.",
+          "tooltip_long": "Uzza adalah salah satu berhala utama di Mekah sebelum Islam. Disebut dalam Al-Qur'an (QS. An-Najm: 19-20).",
+          "created_at": "2023-06-01T12:59:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10112,
+          "keyword": "Manat",
+          "tooltip_short": "Salah satu berhala utama Arab Jahiliyah.",
+          "tooltip_long": "Manat adalah berhala yang diagungkan oleh suku-suku Arab sebelum Islam. Disebut dalam Al-Qur'an (QS. An-Najm: 19-20).",
+          "created_at": "2023-06-01T13:00:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10113,
+          "keyword": "Hubal",
+          "tooltip_short": "Berhala utama di Ka'bah sebelum Islam.",
+          "tooltip_long": "Hubal adalah berhala yang paling dihormati oleh kaum Quraisy di Mekah sebelum Islam. Patungnya ditempatkan di dalam Ka'bah.",
+          "created_at": "2023-06-01T13:01:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10114,
+          "keyword": "Isaf dan Na'ilah",
+          "tooltip_short": "Dua berhala di sekitar Ka'bah sebelum Islam.",
+          "tooltip_long": "Isaf dan Na'ilah adalah dua berhala yang diletakkan di dekat Ka'bah dan disembah oleh orang Quraisy sebelum Islam.",
+          "created_at": "2023-06-01T13:02:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10115,
+          "keyword": "Al-Aswad al-Ansi",
+          "tooltip_short": "Orang yang mengaku nabi di Yaman.",
+          "tooltip_long": "Al-Aswad al-Ansi adalah seorang yang mengaku nabi di Yaman dan menentang Nabi Muhammad SAW. Ia dibunuh oleh pasukan Muslim pada masa pemerintahan Khalifah Abu Bakr.",
+          "created_at": "2023-06-01T13:04:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10116,
+          "keyword": "Tulahah al-Asadi",
+          "tooltip_short": "Mengaku sebagai nabi pada masa Nabi Muhammad.",
+          "tooltip_long": "Tulahah al-Asadi adalah seorang yang mengaku nabi dan menentang ajaran Islam pada masa Nabi Muhammad SAW, tetapi akhirnya ia meninggal setelah dibunuh oleh pasukan Muslim.",
+          "created_at": "2023-06-01T13:05:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10117,
+          "keyword": "Sajjah al-Tamimiyyah",
+          "tooltip_short": "Seorang wanita yang mengaku nabi.",
+          "tooltip_long": "Sajjah al-Tamimiyyah adalah seorang wanita yang mengaku nabi dan memimpin sekelompok pengikutnya di wilayah Arab sebelum Islam menyebar di seluruh Jazirah Arab.",
+          "created_at": "2023-06-01T13:06:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10118,
+          "keyword": "Jibril",
+          "tooltip_short": "Malaikat yang menyampaikan wahyu.",
+          "tooltip_long": "Jibril adalah malaikat yang bertugas menyampaikan wahyu dari Allah kepada para nabi dan rasul, termasuk Nabi Muhammad SAW. Jibril adalah salah satu malaikat yang paling mulia dan terkenal.",
+          "created_at": "2023-06-01T13:08:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10119,
+          "keyword": "Mikail",
+          "tooltip_short": "Malaikat yang bertugas memberi rizki.",
+          "tooltip_long": "Mikail adalah malaikat yang bertugas memberikan rizki kepada makhluk Allah, termasuk memberi hujan dan tanaman. Ia sering disebut sebagai malaikat yang menolong dalam urusan rezeki.",
+          "created_at": "2023-06-01T13:09:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10120,
+          "keyword": "Israfil",
+          "tooltip_short": "Malaikat yang meniup sangkakala pada kiamat.",
+          "tooltip_long": "Israfil adalah malaikat yang akan meniup sangkakala pada hari kiamat sebagai tanda dimulainya kehidupan baru dan kebangkitan semua makhluk setelah mati.",
+          "created_at": "2023-06-01T13:10:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10121,
+          "keyword": "Azrail",
+          "tooltip_short": "Malaikat pencabut nyawa.",
+          "tooltip_long": "Azrail adalah malaikat yang diberi tugas untuk mencabut nyawa setiap makhluk hidup sesuai dengan takdir yang telah ditentukan oleh Allah.",
+          "created_at": "2023-06-01T13:11:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10122,
+          "keyword": "Raqib dan Atid",
+          "tooltip_short": "Malaikat yang mencatat amal perbuatan manusia.",
+          "tooltip_long": "Raqib dan Atid adalah malaikat yang bertugas mencatat amal baik dan buruk yang dilakukan oleh setiap manusia. Raqib mencatat amal baik, sedangkan Atid mencatat amal buruk.",
+          "created_at": "2023-06-01T13:12:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10123,
+          "keyword": "Munkar dan Nakir",
+          "tooltip_short": "Malaikat yang menginterogasi mayat di kubur.",
+          "tooltip_long": "Munkar dan Nakir adalah malaikat yang akan datang untuk menginterogasi orang yang telah meninggal di dalam kubur mengenai keimanannya terhadap Allah dan Nabi Muhammad SAW.",
+          "created_at": "2023-06-01T13:13:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10124,
+          "keyword": "Malik",
+          "tooltip_short": "Malaikat penjaga neraka.",
+          "tooltip_long": "Malik adalah malaikat yang ditugaskan oleh Allah untuk menjaga pintu neraka. Dia adalah kepala malaikat penjaga neraka yang memiliki tugas untuk mengawasi para penghuni neraka.",
+          "created_at": "2023-06-01T13:14:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10125,
+          "keyword": "Ridwan",
+          "tooltip_short": "Malaikat penjaga surga.",
+          "tooltip_long": "Ridwan adalah malaikat yang bertugas menjaga surga. Dia adalah penjaga surga yang akan menyambut penghuni surga dengan penuh kebahagiaan dan keindahan.",
+          "created_at": "2023-06-01T13:15:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10126,
+          "keyword": "Abu Hudzaifah",
+          "tooltip_short": "Sahabat yang berhijrah ke Habasyah.",
+          "tooltip_long": "Abu Hudzaifah adalah seorang sahabat Nabi Muhammad SAW yang turut serta dalam hijrah ke Habasyah. Ia termasuk dalam golongan sahabat yang terkemuka.",
+          "created_at": "2023-06-01T13:17:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10127,
+          "keyword": "Abu Salamah",
+          "tooltip_short": "Sahabat yang berhijrah ke Habasyah.",
+          "tooltip_long": "Abu Salama adalah salah satu sahabat Nabi Muhammad SAW yang pertama kali berhijrah ke Habasyah bersama istrinya Ummu Salama. Ia adalah seorang yang sangat setia kepada Nabi.",
+          "created_at": "2023-06-01T13:19:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10128,
+          "keyword": "Abu Darda",
+          "tooltip_short": "Sahabat yang ikut berhijrah ke Habasyah.",
+          "tooltip_long": "Abu Darda adalah sahabat yang ikut berhijrah ke Habasyah. Beliau dikenal dengan ketekunannya dalam beribadah dan merupakan salah satu sahabat yang sangat dihormati.",
+          "created_at": "2023-06-01T13:23:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10129,
+          "keyword": "Khabab bin al-Aratt",
+          "tooltip_short": "Sahabat yang berhijrah ke Habasyah.",
+          "tooltip_long": "Khabab bin al-Aratt adalah salah satu sahabat yang ikut berhijrah ke Habasyah. Ia adalah seorang yang sangat berani dan sabar dalam menghadapi cobaan di jalan Allah.",
+          "created_at": "2023-06-01T13:33:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10130,
+          "keyword": "Suhail bin Amr",
+          "tooltip_short": "Sahabat yang berhijrah ke Habasyah.",
+          "tooltip_long": "Suhail bin Amr adalah sahabat yang turut serta dalam hijrah pertama ke Habasyah. Beliau terkenal sebagai seorang orator ulung dan kemudian menjadi salah satu pemimpin besar dalam sejarah Islam.",
+          "created_at": "2023-06-01T13:37:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10131,
+          "keyword": "Asma' binti Abi Bakr",
+          "tooltip_short": "Putri Abu Bakar yang ikut berhijrah ke Habasyah.",
+          "tooltip_long": "Asma' binti Abi Bakr adalah putri dari Abu Bakar as-Siddiq yang ikut berhijrah ke Habasyah. Ia dikenal sebagai wanita yang sangat berani dan tangguh dalam menghadapi tantangan.",
+          "created_at": "2023-06-01T13:39:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10132,
+          "keyword": "Umayr bin Sa'd",
+          "tooltip_short": "Sahabat yang berhijrah ke Madinah.",
+          "tooltip_long": "Umayr bin Sa'd adalah sahabat Nabi Muhammad SAW yang berhijrah ke Madinah. Ia adalah salah satu yang terlibat dalam pertempuran Uhud.",
+          "created_at": "2023-06-01T14:12:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10133,
+          "keyword": "Rifa'ah bin Rafi",
+          "tooltip_short": "Sahabat yang berhijrah ke Madinah.",
+          "tooltip_long": "Rifa'ah bin Rafi adalah sahabat yang turut berhijrah ke Madinah dan dikenal dengan keberaniannya dalam pertempuran di masa awal Islam.",
+          "created_at": "2023-06-01T14:15:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10134,
+          "keyword": "Abu Ayyub al-Ansari",
+          "tooltip_short": "Sahabat Ansar yang menerima Nabi Muhammad SAW di Madinah.",
+          "tooltip_long": "Abu Ayyub al-Ansari adalah sahabat yang sangat terkenal karena menerima Nabi Muhammad SAW di rumahnya saat beliau hijrah ke Madinah.",
+          "created_at": "2023-06-01T14:17:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10135,
+          "keyword": "Ummu Aiman",
+          "tooltip_short": "Pembantu Nabi Muhammad yang turut berhijrah ke Madinah.",
+          "tooltip_long": "Ummu Aiman adalah wanita yang setia kepada Nabi Muhammad SAW dan turut berhijrah ke Madinah. Ia dikenal sebagai seorang yang sangat berani dan penuh cinta terhadap Islam.",
+          "created_at": "2023-06-01T14:19:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10136,
+          "keyword": "Ummu Ammar",
+          "tooltip_short": "Wanita yang turut berhijrah ke Madinah.",
+          "tooltip_long": "Ummu Ammar adalah seorang wanita yang turut berhijrah ke Madinah. Ia dikenal karena peranannya dalam mendukung perjuangan Nabi Muhammad SAW.",
+          "created_at": "2023-06-01T14:23:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10137,
+          "keyword": "Al-Bara' bin Malik",
+          "tooltip_short": "Sahabat yang turut berhijrah ke Madinah dan dikenal dalam peperangan.",
+          "tooltip_long": "Al-Bara' bin Malik adalah sahabat yang turut berhijrah ke Madinah dan dikenal dengan keberaniannya dalam pertempuran, termasuk dalam Perang Uhud dan Perang Yamamah.",
+          "created_at": "2023-06-01T14:30:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10138,
+          "keyword": "Abu Dujana",
+          "tooltip_short": "Sahabat yang dikenal karena keberanian dan ikut berhijrah ke Madinah.",
+          "tooltip_long": "Abu Dujana adalah sahabat yang terkenal dengan keberaniannya di medan perang. Ia ikut berhijrah ke Madinah dan berperan besar dalam berbagai pertempuran.",
+          "created_at": "2023-06-01T14:31:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10139,
+          "keyword": "Anas bin Malik",
+          "tooltip_short": "Sahabat yang melayani Nabi Muhammad SAW dan turut berhijrah ke Madinah.",
+          "tooltip_long": "Anas bin Malik adalah sahabat yang melayani Nabi Muhammad SAW selama lebih dari sepuluh tahun dan turut berhijrah ke Madinah. Ia juga dikenal karena banyak meriwayatkan hadis.",
+          "created_at": "2023-06-01T14:34:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10140,
+          "keyword": "Abu Musa al-Asy'ari",
+          "tooltip_short": "Sahabat yang terkenal dengan kebijaksanaannya dan berhijrah ke Madinah.",
+          "tooltip_long": "Abu Musa al-Asy'ari adalah sahabat yang terkenal dengan kebijaksanaannya dan kepribadiannya yang mulia. Ia ikut berhijrah ke Madinah dan berperan dalam pertempuran serta penyebaran ajaran Islam.",
+          "created_at": "2023-06-01T14:46:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10141,
+          "keyword": "Abu al-Haytham bin al-Tayhan",
+          "tooltip_short": "Sahabat yang pertama kali berbaiat dari Madinah.",
+          "tooltip_long": "Abu al-Haytham bin al-Tayhan adalah salah satu sahabat dari Madinah yang turut serta dalam Baiat Aqabah pertama dan dikenal sebagai salah satu yang pertama kali berbaiat dengan Nabi Muhammad SAW.",
+          "created_at": "2023-06-01T15:00:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10142,
+          "keyword": "Mus'ab bin Umair",
+          "tooltip_short": "Sahabat yang berbaiat dari Madinah dan menjadi duta pertama Islam di Madinah.",
+          "tooltip_long": "Mus'ab bin Umair adalah sahabat yang berbaiat pada Baiat Aqabah pertama. Ia menjadi duta pertama Nabi Muhammad SAW yang dikirim ke Madinah untuk mengajarkan Islam dan mempersiapkan hijrah.",
+          "created_at": "2023-06-01T15:01:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10143,
+          "keyword": "Ubadah bin al-Samit",
+          "tooltip_short": "Sahabat yang ikut dalam Baiat Aqabah pertama dan dikenal sebagai salah satu pemimpin di Madinah.",
+          "tooltip_long": "Ubadah bin al-Samit adalah sahabat yang ikut berbaiat pada Baiat Aqabah pertama dan dikenal sebagai salah satu pemimpin Islam di Madinah setelah hijrah.",
+          "created_at": "2023-06-01T16:03:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10144,
+          "keyword": "Al-Bara' bin Malik",
+          "tooltip_short": "Sahabat yang ikut berbaiat pada Baiat Aqabah pertama dan berperan dalam banyak pertempuran.",
+          "tooltip_long": "Al-Bara' bin Malik adalah sahabat yang turut berbaiat pada Baiat Aqabah pertama. Ia dikenal dengan keberaniannya di medan perang dan perannya dalam dakwah Islam.",
+          "created_at": "2023-06-01T16:04:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10145,
+          "keyword": "Salim Mawla Abi Hudzaifah",
+          "tooltip_short": "Sahabat yang berbaiat pada Baiat Aqabah dan dikenal sebagai seorang yang setia.",
+          "tooltip_long": "Salim Mawla Abi Hudzaifah adalah seorang mantan budak yang dibebaskan oleh Abu Hudzaifah. Ia menjadi salah satu yang berbaiat pada Baiat Aqabah dan berperan penting dalam dakwah Islam.",
+          "created_at": "2023-06-01T16:10:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10146,
+          "keyword": "Amr bin al-Jamuh",
+          "tooltip_short": "Sahabat yang berbaiat pada Baiat Aqabah dan berperan dalam peperangan.",
+          "tooltip_long": "Amr bin al-Jamuh adalah sahabat yang turut berbaiat pada Baiat Aqabah. Ia dikenal dengan keberanian dan kesetiaannya dalam berbagai peperangan bersama Nabi Muhammad SAW.",
+          "created_at": "2023-06-01T16:15:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10147,
+          "keyword": "Qais bin Sa'd",
+          "tooltip_short": "Sahabat yang ikut berbaiat di Baiat Aqabah dan memiliki peran penting dalam peperangan.",
+          "tooltip_long": "Qais bin Sa'd adalah sahabat yang ikut dalam Baiat Aqabah. Ia memiliki peran penting dalam berbagai peperangan dan dalam penyebaran dakwah Islam di Madinah.",
+          "created_at": "2023-06-01T16:17:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10148,
+          "keyword": "Sa'd bin Mu'adz",
+          "tooltip_short": "Sahabat Madinah yang terkenal sebagai pemimpin suku Aws dan seorang yang dekat dengan Nabi.",
+          "tooltip_long": "Sa'd bin Mu'adz adalah sahabat Madinah yang berasal dari suku Aws. Ia merupakan salah satu pemimpin suku yang berbaiat pada Baiat Aqabah dan sangat dekat dengan Nabi Muhammad SAW.",
+          "created_at": "2023-06-01T16:29:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10149,
+          "keyword": "Rafi' bin Khadij",
+          "tooltip_short": "Sahabat Madinah yang berperan dalam beberapa pertempuran bersama Nabi.",
+          "tooltip_long": "Rafi' bin Khadij adalah sahabat Madinah yang turut berperan dalam beberapa pertempuran bersama Nabi Muhammad SAW. Ia dikenal sebagai seorang pejuang yang sangat berani.",
+          "created_at": "2023-06-01T16:37:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10150,
+          "keyword": "Hamzah bin Abdul Muttalib",
+          "tooltip_short": "Paman Nabi yang terkenal sebagai 'Singa Allah' dan mati syahid dalam Perang Uhud.",
+          "tooltip_long": "Hamzah bin Abdul Muttalib adalah paman Nabi Muhammad SAW yang dikenal sebagai 'Singa Allah' karena keberanian dan pengorbanannya dalam jihad. Ia gugur sebagai syahid dalam Perang Uhud.",
+          "created_at": "2023-06-01T16:45:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10151,
+          "keyword": "Al-Abbas bin Abdul Muttalib",
+          "tooltip_short": "Paman Nabi Muhammad SAW yang merupakan salah satu pemimpin Quraisy dan salah satu yang pertama memeluk Islam.",
+          "tooltip_long": "Al-Abbas bin Abdul Muttalib adalah paman Nabi Muhammad SAW yang terkenal karena memeluk Islam setelah hijrah. Ia juga berperan dalam membantu Nabi Muhammad SAW di Madinah dan sangat dihormati oleh umat Islam.",
+          "created_at": "2023-06-01T16:47:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10152,
+          "keyword": "Abu Dzar Al-Ghifari",
+          "tooltip_short": "Sahabat yang dikenal dengan zuhudnya dan pengabdiannya kepada Islam.",
+          "tooltip_long": "Abu Dzar Al-Ghifari adalah sahabat yang terkenal dengan kedalaman zuhudnya dan kesetiaannya yang tinggi terhadap ajaran Islam. Ia juga dikenal dengan pengabdiannya yang tulus terhadap Nabi Muhammad SAW.",
+          "created_at": "2023-06-01T16:49:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10153,
+          "keyword": "Abdullah bin Mas'ud",
+          "tooltip_short": "Sahabat yang terkenal sebagai ahli tafsir dan perawi hadits.",
+          "tooltip_long": "Abdullah bin Mas'ud adalah sahabat Nabi yang dikenal sebagai salah satu ahli tafsir dan perawi hadits terkemuka. Ia memiliki kedudukan penting dalam perkembangan ilmu pengetahuan Islam.",
+          "created_at": "2023-06-01T16:52:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10154,
+          "keyword": "Mu'awiya bin Abi Sufyan",
+          "tooltip_short": "Sahabat yang menjadi khalifah dan mendirikan dinasti Umayyah.",
+          "tooltip_long": "Mu'awiya bin Abi Sufyan adalah sahabat yang terkenal sebagai khalifah pertama dari dinasti Umayyah. Ia memainkan peran penting dalam sejarah Islam pasca-Nabi.",
+          "created_at": "2023-06-01T17:04:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10155,
+          "keyword": "Abdullah bin Umar",
+          "tooltip_short": "Sahabat yang dikenal sebagai seorang yang sangat taat kepada Allah dan Nabi Muhammad SAW.",
+          "tooltip_long": "Abdullah bin Umar adalah putra dari Umar bin Khattab. Ia dikenal sebagai seorang yang sangat taat dan banyak meriwayatkan hadits dari Nabi Muhammad SAW.",
+          "created_at": "2023-06-01T17:16:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10156,
+          "keyword": "Abu al-A'war As-Sulami",
+          "tooltip_short": "Sahabat yang ikut berjuang di banyak pertempuran bersama Nabi Muhammad SAW.",
+          "tooltip_long": "Abu al-A'war As-Sulami adalah sahabat yang terlibat dalam banyak pertempuran bersama Nabi Muhammad SAW dan dikenal dengan pengorbanannya untuk Islam.",
+          "created_at": "2023-06-01T17:26:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10157,
+          "keyword": "Ka'b bin al-Ashraf",
+          "tooltip_short": "Pemimpin Yahudi yang memimpin suku Banu Nadir dan berusaha melawan Nabi Muhammad SAW.",
+          "tooltip_long": "Ka'b bin al-Ashraf adalah seorang pemimpin Yahudi dari suku Banu Nadir yang sangat membenci Nabi Muhammad SAW. Ia dikenal karena membangun konspirasi untuk melawan umat Islam dan menghina Nabi. Ka'b dibunuh setelah ia melakukan pengkhianatan terhadap Islam.",
+          "created_at": "2023-06-01T17:45:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10158,
+          "keyword": "Huyayy bin Akhtab",
+          "tooltip_short": "Pemimpin Yahudi dari suku Banu Nadir yang berkonspirasi melawan Islam.",
+          "tooltip_long": "Huyayy bin Akhtab adalah pemimpin dari suku Yahudi Banu Nadir yang juga berusaha menghancurkan umat Islam. Ia berperan dalam Perang Khandaq dan juga terlibat dalam pengkhianatan terhadap Nabi Muhammad SAW.",
+          "created_at": "2023-06-01T17:46:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10159,
+          "keyword": "Abu Rafi' bin Abu Harb",
+          "tooltip_short": "Seorang Yahudi yang berkhianat terhadap Nabi Muhammad SAW.",
+          "tooltip_long": "Abu Rafi' bin Abu Harb adalah seorang Yahudi yang terlibat dalam berbagai konspirasi melawan Nabi Muhammad SAW. Ia dikenal karena pengkhianatannya yang akhirnya membuatnya dihukum mati setelah terbukti berkonspirasi.",
+          "created_at": "2023-06-01T17:48:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10160,
+          "keyword": "Ashraf bin Hatim",
+          "tooltip_short": "Pemimpin Yahudi lainnya yang menentang Islam.",
+          "tooltip_long": "Ashraf bin Hatim adalah seorang pemimpin Yahudi yang memimpin suku tertentu dan memusuhi umat Islam pada masa itu. Ia berpartisipasi dalam konspirasi untuk menggulingkan Nabi Muhammad SAW.",
+          "created_at": "2023-06-01T17:49:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10161,
+          "keyword": "Mu'adz bin Jabal",
+          "tooltip_short": "Sahabat yang dikenal sebagai ahli ilmu dan pengajar.",
+          "tooltip_long": "Mu'adz bin Jabal adalah sahabat yang sangat dihormati karena kedalaman ilmunya dalam bidang agama. Nabi Muhammad SAW pernah mengirimnya sebagai pengajar kepada masyarakat di Yaman. Dia juga dikenal karena keutamaannya dalam ilmu fiqh dan tafsir.",
+          "created_at": "2023-06-01T17:56:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10162,
+          "keyword": "Tsabit bin Qays",
+          "tooltip_short": "Sahabat yang sangat berani dan berjuang di jalan Allah.",
+          "tooltip_long": "Tsabit bin Qays adalah sahabat yang dikenal karena keberaniannya dan pengorbanannya dalam pertempuran. Ia adalah salah satu sahabat yang berjuang tanpa mengenal takut, dan memiliki peran besar dalam beberapa peperangan besar.",
+          "created_at": "2023-06-01T17:59:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10163,
+          "keyword": "Utsman bin Maz'un",
+          "tooltip_short": "Sahabat yang dikenal dengan keteguhan imannya.",
+          "tooltip_long": "Utsman bin Maz'un adalah salah satu sahabat Nabi yang sangat tegar dalam mempertahankan iman Islam. Ia dikenal sebagai salah satu sahabat pertama yang menyusul Nabi Muhammad SAW dalam hijrah ke Madinah, dan ia merupakan orang yang sangat bersemangat dalam beribadah.",
+          "created_at": "2023-06-01T18:02:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10164,
+          "keyword": "Zayd bin al-Khattab",
+          "tooltip_short": "Sahabat yang dikenal dengan keberaniannya dalam berperang.",
+          "tooltip_long": "Zayd bin al-Khattab adalah sahabat Nabi Muhammad SAW dan saudara dari Umar bin al-Khattab. Ia dikenal sebagai seorang pejuang yang pemberani dan berperan penting dalam beberapa pertempuran. Zayd syahid dalam Perang Mu'tah, meninggalkan warisan kepahlawanan dan kesetiaan pada Islam.",
+          "created_at": "2023-06-01T18:10:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10165,
+          "keyword": "Thuhailah bin Khuwailid",
+          "tooltip_short": "Sahabat yang dikenal dengan keberaniannya dan kontribusinya dalam jihad.",
+          "tooltip_long": "Thuhailah bin Khuwailid adalah sahabat Nabi Muhammad SAW yang berasal dari suku Quraisy. Ia dikenal karena keberaniannya dalam pertempuran dan kontribusinya dalam menyebarkan dakwah Islam. Ia berperan dalam beberapa peperangan dan merupakan sahabat yang setia hingga akhir hayat.",
+          "created_at": "2023-06-01T18:11:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10166,
+          "keyword": "Abbad bin Bisyr",
+          "tooltip_short": "Sahabat yang dikenal dengan kesetiaannya dan perjuangannya dalam jihad.",
+          "tooltip_long": "Abbad bin Bisyr adalah salah satu sahabat Nabi Muhammad SAW yang dikenal dengan keberaniannya dan kesetiaannya. Ia terlibat dalam banyak pertempuran dan memberikan kontribusi besar dalam perjuangan Islam. Abbad syahid dalam Perang Uhud, menunjukkan pengorbanan yang luar biasa dalam membela agama Allah.",
+          "created_at": "2023-06-01T18:11:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10167,
+          "keyword": "Abdullah bin Hudzaifah",
+          "tooltip_short": "Sahabat yang dikenal dengan kesetiaannya dan keberaniannya di medan perang.",
+          "tooltip_long": "Abdullah bin Hudzaifah adalah salah satu sahabat Nabi Muhammad SAW yang terkenal karena kesetiaannya dan keberaniannya. Ia ikut berperang dalam berbagai peperangan besar, termasuk Perang Uhud dan Perang Mu'tah. Abdullah bin Hudzaifah juga dikenal karena keberaniannya dalam menghadapi tantangan hidup dan keyakinannya terhadap Islam.",
+          "created_at": "2023-06-01T18:11:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10168,
+          "keyword": "Khalid bin Said",
+          "tooltip_short": "Sahabat yang dikenal dengan keteguhannya memeluk Islam meski banyak rintangan.",
+          "tooltip_long": "Khalid bin Said adalah salah satu sahabat Nabi Muhammad SAW yang termasuk di antara orang-orang pertama yang memeluk Islam di Mekah. Ia terkenal dengan keteguhannya dalam mempertahankan iman meskipun harus menghadapi siksaan yang berat. Khalid bin Said juga berpartisipasi dalam banyak pertempuran setelah hijrah ke Madinah.",
+          "created_at": "2023-06-01T18:11:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10169,
+          "keyword": "Nu'man bin Muqarrin",
+          "tooltip_short": "Sahabat yang terkenal karena kesetiaan dan keberaniannya.",
+          "tooltip_long": "Nu'man bin Muqarrin adalah sahabat Nabi Muhammad SAW yang dikenal dengan keberaniannya dalam berperang dan kesetiaannya kepada Islam. Ia berperan dalam beberapa pertempuran penting dan dikenal sebagai seorang prajurit yang sangat tangguh. Nu'man termasuk dalam pasukan yang berjihad di berbagai medan perang.",
+          "created_at": "2023-06-01T18:11:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10170,
+          "keyword": "Imran bin Husayn",
+          "tooltip_short": "Sahabat yang dikenal dengan kebijaksanaan dan kepemimpinan.",
+          "tooltip_long": "Imran bin Husayn adalah sahabat Nabi Muhammad SAW yang dikenal dengan kebijaksanaannya dan kemampuannya dalam memahami ajaran Islam. Ia juga memiliki banyak riwayat hadits dari Nabi dan merupakan salah satu sahabat yang dihormati oleh umat Islam. Imran berperan penting dalam berbagai pertempuran dan dikenal sebagai salah satu tokoh yang aktif dalam dakwah Islam.",
+          "created_at": "2023-06-01T18:11:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10171,
+          "keyword": "Umair bin Sa'ad",
+          "tooltip_short": "Sahabat muda yang menunjukkan keberanian luar biasa dalam Perang Uhud.",
+          "tooltip_long": "Umair bin Sa'ad adalah sahabat muda yang terkenal karena keberaniannya dalam Perang Uhud. Pada usia yang masih sangat muda, ia berperang dengan penuh semangat dan menunjukkan keteguhan hati. Sebelum berperang, ia sempat diberikan nasihat oleh Nabi Muhammad SAW yang menekankan kesungguhan dan keberanian dalam perjuangan untuk Islam.",
+          "created_at": "2023-06-01T18:11:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10172,
+          "keyword": "Ikrimah bin Abu Jahl",
+          "tooltip_short": "Sahabat yang awalnya menentang Islam, kemudian menjadi salah satu pahlawan Islam.",
+          "tooltip_long": "Ikrimah bin Abu Jahl adalah putra dari Abu Jahl, musuh besar Islam, yang awalnya menentang ajaran Nabi Muhammad SAW. Namun, setelah pertempuran di Hunain, Ikrimah masuk Islam dan menjadi salah satu pahlawan Islam yang gagah berani dalam pertempuran. Ia syahid dalam Perang Yarmouk.",
+          "created_at": "2023-06-01T18:11:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10173,
+          "keyword": "Ukkasyah bin al-Mihsan",
+          "tooltip_short": "Sahabat yang dikenal karena keberaniannya dan permintaannya untuk menjadi orang pertama yang masuk surga.",
+          "tooltip_long": "Ukkasyah bin al-Mihsan adalah salah satu sahabat Nabi Muhammad SAW yang terkenal karena keberaniannya dalam pertempuran. Ia juga dikenal karena permintaannya untuk menjadi orang pertama yang masuk surga, yang kemudian dijawab oleh Nabi Muhammad SAW. Ukkasyah berperan aktif dalam berbagai peperangan dan merupakan seorang yang sangat setia kepada Nabi.",
+          "created_at": "2023-06-01T18:11:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10174,
+          "keyword": "Ja'far bin Abi Talib",
+          "tooltip_short": "Sahabat yang dikenal dengan keberaniannya dan kesetiaannya dalam dakwah.",
+          "tooltip_long": "Ja'far bin Abi Talib adalah sahabat Nabi Muhammad SAW yang terkenal dengan keberaniannya dan pengorbanannya dalam menyebarkan Islam. Ia adalah saudara dari Ali bin Abi Talib dan merupakan salah satu pemimpin dalam Perang Mu'tah. Ja'far dikenal sebagai 'Ja'far al-Tayyar' setelah beliau kehilangan kedua tangannya dalam pertempuran tersebut, tetapi tetap terus berjuang hingga syahid.",
+          "created_at": "2023-06-01T18:11:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10175,
+          "keyword": "Harithah bin Nu'man",
+          "tooltip_short": "Sahabat yang terkenal dengan keberanian dan pengorbanannya dalam Perang Uhud.",
+          "tooltip_long": "Harithah bin Nu'man adalah sahabat Nabi Muhammad SAW yang terkenal karena keberaniannya dalam Perang Uhud. Ia adalah salah satu pejuang yang syahid dalam pertempuran tersebut, dan ia diinginkan oleh ibunya untuk menjadi syahid di jalan Allah. Ia adalah simbol pengorbanan dan kecintaan terhadap Islam.",
+          "created_at": "2023-06-01T18:11:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10176,
+          "keyword": "Mu'awiyah bin Abi Sufyan",
+          "tooltip_short": "Sahabat yang terkenal sebagai panglima dan khalifah pertama dari Dinasti Umayyah.",
+          "tooltip_long": "Mu'awiyah bin Abi Sufyan adalah sahabat Nabi Muhammad SAW yang terkenal sebagai panglima dalam Perang Uhud dan Perang Khandaq. Ia juga merupakan khalifah pertama dari Dinasti Umayyah setelah memerintah pada tahun 661 M, yang memainkan peran penting dalam sejarah politik Islam.",
+          "created_at": "2023-06-01T18:11:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10177,
+          "keyword": "Abdullah bin Amr bin Haram",
+          "tooltip_short": "Sahabat yang dikenal dengan keteguhannya dalam beriman dan syahid di Perang Uhud.",
+          "tooltip_long": "Abdullah bin Amr bin Haram adalah sahabat Nabi Muhammad SAW yang dikenal dengan keteguhan imannya dan keberaniannya. Ia adalah ayah dari sahabat terkenal, Jabir bin Abdullah. Abdullah syahid dalam Perang Uhud, meninggalkan warisan pengorbanan yang luar biasa untuk Islam.",
+          "created_at": "2023-06-01T18:11:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10178,
+          "keyword": "Abdullah bin Sallam",
+          "tooltip_short": "Sahabat yang sebelumnya seorang Yahudi dan masuk Islam setelah bertemu Nabi.",
+          "tooltip_long": "Abdullah bin Sallam adalah seorang ulama Yahudi yang kemudian memeluk Islam setelah bertemu dengan Nabi Muhammad SAW. Beliau adalah salah satu sahabat yang sangat dihormati karena ilmu dan pengaruhnya dalam menyebarkan Islam. Setelah masuk Islam, ia dikenal sebagai orang yang sangat setia kepada Nabi dan sangat berjasa dalam memberikan banyak pengetahuan kepada umat Islam.",
+          "created_at": "2023-06-01T18:11:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10179,
+          "keyword": "Utbah bin Ghazwan",
+          "tooltip_short": "Sahabat yang terkenal dengan keberanian dan kepemimpinannya.",
+          "tooltip_long": "Utbah bin Ghazwan adalah sahabat Nabi Muhammad SAW yang terkenal dengan kepemimpinan dan keberaniannya dalam pertempuran. Ia adalah salah satu panglima dalam Perang Yarmuk dan memiliki peran besar dalam penyebaran Islam di wilayah Syam. Ia juga dikenal sebagai salah satu sahabat yang memiliki kedekatan dengan Nabi.",
+          "created_at": "2023-06-01T18:11:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10180,
+          "keyword": "Tsumamah bin Uthal",
+          "tooltip_short": "Sahabat yang awalnya musuh namun kemudian menjadi seorang muslim yang kuat.",
+          "tooltip_long": "Tsumamah bin Uthal adalah seorang pemimpin suku dari Yamamah yang awalnya merupakan musuh Islam. Ia ditangkap oleh kaum Muslimin dalam salah satu pertempuran, tetapi setelah dijaga oleh Nabi Muhammad SAW, ia akhirnya memeluk Islam dan menjadi salah satu sahabat yang sangat setia. Tsumamah dikenal karena kebijaksanaannya dan kontribusinya terhadap dakwah Islam setelah memeluk agama tersebut.",
+          "created_at": "2023-06-01T18:11:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10181,
+          "keyword": "Abdullah bin Rawahah",
+          "tooltip_short": "Sahabat yang terkenal dengan keberanian dan keimanan yang kuat.",
+          "tooltip_long": "Abdullah bin Rawahah adalah sahabat Nabi Muhammad SAW yang dikenal karena keberanian dan keimanan yang kuat. Ia merupakan salah satu pemimpin dalam Perang Mu'tah dan sangat dihormati atas kepemimpinan dan pengorbanannya. Abdullah gugur syahid dalam pertempuran tersebut.",
+          "created_at": "2023-06-01T18:11:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10182,
+          "keyword": "Zaid bin Arqom",
+          "tooltip_short": "Sahabat yang dikenal dengan kedalaman ilmunya dan pengabdiannya.",
+          "tooltip_long": "Zaid bin Arqom adalah sahabat Nabi Muhammad SAW yang dikenal dengan kedalaman ilmunya dan perannya dalam berbagai pertempuran. Ia turut hadir dalam Perang Uhud dan memiliki peranan penting dalam menyampaikan banyak hadits dari Nabi. Zaid bin Arqom juga dikenal sebagai salah satu sahabat yang panjang umur dan banyak meriwayatkan hadits.",
+          "created_at": "2023-06-01T18:11:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10183,
+          "keyword": "Abdullah bin Umm Maktum",
+          "tooltip_short": "Sahabat buta yang dikenal dengan kecintaan dan dedikasinya kepada Islam.",
+          "tooltip_long": "Abdullah bin Umm Maktum adalah sahabat Nabi Muhammad SAW yang buta sejak lahir. Meskipun memiliki keterbatasan fisik, ia sangat tekun dalam mengikuti ajaran Islam dan selalu mendampingi Nabi. Nabi Muhammad SAW sangat menghormati dan menyayangi beliau. Ia juga dipercaya untuk menjadi muazin di Madinah setelah Nabi hijrah.",
+          "created_at": "2023-06-01T18:11:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10184,
+          "keyword": "Usa'id bin Hudhair",
+          "tooltip_short": "Sahabat yang dikenal dengan keutamaan dalam membaca Al-Qur'an dan kepemimpinan.",
+          "tooltip_long": "Usa'id bin Hudhair adalah sahabat Nabi Muhammad SAW yang dikenal sebagai salah satu sahabat yang memiliki suara merdu dalam membaca Al-Qur'an. Ia juga menjadi salah satu pemimpin yang dihormati dalam kalangan Anshar dan berperan penting dalam banyak pertempuran.",
+          "created_at": "2023-06-01T18:11:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10185,
+          "keyword": "Abu Sa'id al-Khudri",
+          "tooltip_short": "Periwayat hadits yang dikenal dengan keutamaannya di bidang fiqih.",
+          "tooltip_long": "Abu Sa'id al-Khudri adalah sahabat yang dikenal dengan banyaknya riwayat hadits dari Nabi Muhammad SAW, terutama yang berkaitan dengan fiqih dan hukum Islam. Ia adalah salah satu dari sahabat yang memiliki kedudukan tinggi dalam Islam dan sangat dihormati di kalangan umat Muslim.",
+          "created_at": "2023-06-01T18:16:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10186,
+          "keyword": "Jabir bin Abdullah",
+          "tooltip_short": "Sahabat yang dikenal dengan banyaknya riwayat hadits.",
+          "tooltip_long": "Jabir bin Abdullah adalah sahabat yang banyak meriwayatkan hadits, terutama yang berkaitan dengan masalah fiqih, pernikahan, dan jihad. Ia dikenal sangat setia kepada Nabi Muhammad SAW dan memiliki peran penting dalam sejarah Islam.",
+          "created_at": "2023-06-01T18:18:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10187,
+          "keyword": "Abdullah bin Abbas",
+          "tooltip_short": "Cousin Nabi yang terkenal dengan ilmunya dalam tafsir Al-Quran.",
+          "tooltip_long": "Abdullah bin Abbas adalah sepupu Nabi Muhammad SAW yang dikenal dengan kecerdasan dan kemampuannya dalam memahami wahyu Allah, terutama dalam hal tafsir Al-Quran dan hadits. Ia meriwayatkan banyak hadits yang berkaitan dengan penafsiran ayat-ayat Al-Quran.",
+          "created_at": "2023-06-01T18:35:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10188,
+          "keyword": "Abu Qatadah al-Ansari",
+          "tooltip_short": "Sahabat Nabi yang terkenal dengan pengabdiannya dan periwayatan hadits.",
+          "tooltip_long": "Abu Qatadah al-Ansari adalah sahabat Nabi Muhammad SAW yang dikenal dengan pengabdiannya dan banyak meriwayatkan hadits. Ia meriwayatkan hadits tentang ibadah, perang, dan berbagai kehidupan umat Islam pada masa awal.",
+          "created_at": "2023-06-01T18:36:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10189,
+          "keyword": "Umm Kulthum bint Ali",
+          "tooltip_short": "Putri Ali bin Abi Talib yang juga sahabiyat Nabi.",
+          "tooltip_long": "Umm Kulthum bint Ali adalah putri Ali bin Abi Talib dan Fatimah bint Muhammad. Ia adalah salah satu sahabiyat yang memiliki peran penting dalam sejarah Islam.",
+          "created_at": "2023-06-01T19:01:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10190,
+          "keyword": "Rufaida al-Aslamia",
+          "tooltip_short": "Wanita pertama yang mendirikan rumah sakit di medan perang.",
+          "tooltip_long": "Rufaida al-Aslamia adalah seorang sahabiyat yang terkenal sebagai wanita pertama yang mendirikan rumah sakit di medan perang. Ia sangat berperan dalam memberikan pertolongan medis kepada para pejuang Islam.",
+          "created_at": "2023-06-01T19:02:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10191,
+          "keyword": "Umm Hani (Fakhita bint Abi Talib)",
+          "tooltip_short": "Saudara perempuan Ali bin Abi Talib yang menerima Islam dan mendukung perjuangan Nabi.",
+          "tooltip_long": "Umm Hani, yang nama lengkapnya adalah Fakhita bint Abi Talib, adalah saudara perempuan Ali bin Abi Talib dan merupakan salah satu sahabiyat yang mendukung perjuangan Islam sejak awal.",
+          "created_at": "2023-06-01T19:09:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10192,
+          "keyword": "Umm al-Fadl (Lubaba bint al-Harith)",
+          "tooltip_short": "Istri dari Abbas bin Abdul Muttalib, paman Nabi Muhammad SAW, dan ibu dari Abdullah bin Abbas.",
+          "tooltip_long": "Umm al-Fadl, yang nama lengkapnya adalah Lubaba bint al-Harith, adalah istri dari Abbas bin Abdul Muttalib dan ibu dari Abdullah bin Abbas. Ia mendukung Nabi Muhammad SAW dalam perjuangan Islam.",
+          "created_at": "2023-06-01T19:12:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10193,
+          "keyword": "Umm al-Ala (Alia bint al-Azwar)",
+          "tooltip_short": "Wanita yang terkenal karena kontribusinya dalam perjuangan Islam.",
+          "tooltip_long": "Umm al-Ala adalah wanita yang dikenal atas kontribusinya dalam perjuangan Islam, terutama dalam mendukung pasukan Islam di medan perang.",
+          "created_at": "2023-06-01T19:14:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10194,
+          "keyword": "Abdullah bin Abdullah bin Ubay bin Salul",
+          "tooltip_short": "Sahabat yang dikenal karena kesetiaannya kepada Nabi Muhammad SAW, meskipun ayahnya adalah pemimpin munafik.",
+          "tooltip_long": "Abdullah bin Abdullah bin Ubay bin Salul adalah seorang sahabat yang memiliki kedudukan mulia di kalangan umat Islam meskipun ayahnya, Ubay bin Salul, adalah pemimpin kaum munafik di Madinah. Abdullah bin Abdullah berperan dalam membela Nabi Muhammad SAW dan menunjukkan kesetiaan yang luar biasa terhadap Islam.",
+          "created_at": "2023-06-01T19:20:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10195,
+          "keyword": "Abdullah bin Abu Bakr",
+          "tooltip_short": "Putra dari Abu Bakr Ash-Shiddiq yang turut berperan dalam peristiwa hijrah.",
+          "tooltip_long": "Abdullah bin Abu Bakr adalah putra dari Abu Bakr Ash-Shiddiq, khalifah pertama dalam Islam. Ia dikenal sebagai seorang sahabat yang turut serta dalam peristiwa hijrah dan mendukung Nabi Muhammad SAW dengan kesetiaan yang tinggi.",
+          "created_at": "2023-06-01T19:22:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10196,
+          "keyword": "Abdullah bin Jubair",
+          "tooltip_short": "Sahabat yang terkenal karena keberaniannya dalam Perang Uhud dan kepatuhannya pada perintah Nabi Muhammad SAW.",
+          "tooltip_long": "Abdullah bin Jubair adalah sahabat yang terkenal karena keberaniannya dalam Perang Uhud. Ia diberikan tugas oleh Nabi Muhammad SAW untuk menjaga posisi pasukan pemanah. Meskipun ia dan pasukannya diberikan perintah untuk tidak meninggalkan posisi tersebut, banyak yang meninggalkan posisi itu setelah melihat kemenangan di medan perang, yang kemudian menyebabkan kekalahan pasukan Muslim. Abdullah bin Jubair tetap teguh pada perintah Nabi SAW hingga akhirnya syahid di medan perang.",
+          "created_at": "2023-06-01T19:24:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10197,
+          "keyword": "Abdullah bin Al-Za’bari",
+          "tooltip_short": "Sahabat yang turut berperang dalam beberapa peristiwa penting dalam sejarah Islam.",
+          "tooltip_long": "Abdullah bin Al-Za’bari adalah seorang sahabat yang turut berperang dalam beberapa peristiwa penting dalam sejarah Islam, termasuk Perang Uhud. Meskipun tidak sebanyak sahabat lainnya, ia tetap tercatat sebagai bagian dari pasukan Muslim yang membela Nabi Muhammad SAW.",
+          "created_at": "2023-06-01T19:26:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10198,
+          "keyword": "Abdullah bin Zaid bin Ashim",
+          "tooltip_short": "Sahabat yang pertama kali melihat mimpi mengenai adzan, yang kemudian menjadi dasar adzan dalam Islam.",
+          "tooltip_long": "Abdullah bin Zaid bin Ashim adalah sahabat Nabi Muhammad SAW yang terkenal karena mimpinya yang pertama kali melihat adzan. Dalam mimpinya, ia mendengar suara seruan untuk shalat, dan kemudian ia menyampaikan mimpi tersebut kepada Nabi Muhammad SAW. Nabi Muhammad SAW mengonfirmasi mimpi tersebut dan memerintahkan Bilal bin Rabah untuk mengumandangkan adzan berdasarkan apa yang dilihat Abdullah bin Zaid.",
+          "created_at": "2023-06-01T19:28:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10199,
+          "keyword": "Abdullah bin Zubair",
+          "tooltip_short": "Sahabat yang terkenal karena keberanian dan kepemimpinannya dalam sejarah Islam.",
+          "tooltip_long": "Abdullah bin Zubair adalah sahabat Nabi Muhammad SAW yang dikenal karena keberaniannya dalam berbagai peristiwa penting, termasuk Perang Uhud dan Perang Yarmuk. Ia adalah putra dari Zubair bin Awwam dan Asma binti Abu Bakar. Abdullah bin Zubair juga dikenal sebagai pemimpin yang pertama kali mengangkat dirinya sebagai khalifah setelah kematian Muawiyah I. Ia memerintah di Hijaz dan menjadi salah satu tokoh penting dalam sejarah Islam.",
+          "created_at": "2023-06-01T19:30:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10200,
+          "keyword": "Abdullah Dzul Bijadain",
+          "tooltip_short": "Sahabat yang dikenal dengan julukan 'pemilik dua kain' karena pengorbanannya dalam perjuangan bersama Nabi Muhammad SAW.",
+          "tooltip_long": "Abdullah bin Abd al-Asad al-Makhzumi, yang dikenal dengan julukan 'Abdullah Dzul Bijadain' (pemilik dua kain), adalah seorang sahabat Nabi Muhammad SAW yang sangat sederhana dan penuh pengorbanan. Ia ikut berperang dalam sejumlah peristiwa penting dalam sejarah Islam, termasuk dalam Perang Uhud. Ketika ia bertempur, ia hanya memiliki dua kain untuk menutupi tubuhnya. Abdullah Dzul Bijadain dikenal sebagai sosok yang rendah hati dan sangat mencintai Nabi Muhammad SAW.",
+          "created_at": "2023-06-01T19:32:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10201,
+          "keyword": "Abdurrahman bin Abu Bakar",
+          "tooltip_short": "Sahabat yang terkenal karena keberanian dan keteguhannya dalam mendukung dakwah Islam.",
+          "tooltip_long": "Abdurrahman bin Abu Bakar adalah putra dari Abu Bakar as-Siddiq, sahabat Nabi Muhammad SAW dan khalifah pertama setelah wafatnya Nabi. Meskipun awalnya ia tidak langsung memeluk agama Islam, setelah masuk Islam, Abdurrahman bin Abu Bakar menunjukkan keberanian dan komitmennya dalam mendukung dakwah Islam. Ia turut serta dalam banyak pertempuran penting, seperti Perang Uhud, dan dikenal karena kecerdasannya serta peranannya dalam membantu menyebarkan ajaran Islam.",
+          "created_at": "2023-06-01T19:34:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10202,
+          "keyword": "Abu al-Ash bin Rabi’",
+          "tooltip_short": "Suami dari Zaynab binti Muhammad, putri Nabi Muhammad SAW, yang pada awalnya seorang musuh Islam, kemudian memeluk Islam.",
+          "tooltip_long": "Abu al-Ash bin Rabi’ adalah seorang sahabat Nabi Muhammad SAW dan suami dari Zaynab binti Muhammad, putri Nabi. Pada awalnya, ia adalah seorang musuh Islam, namun setelah melalui peristiwa-peristiwa penting, seperti Perang Badar, ia memeluk Islam. Abu al-Ash bin Rabi’ memiliki peran penting dalam menjaga hubungan antara keluarga Nabi Muhammad SAW dan umat Islam, serta mendukung perjuangan Islam setelah ia menjadi seorang Muslim.",
+          "created_at": "2023-06-01T19:36:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10203,
+          "keyword": "Abu Lubabah bin Abdul Mundhir",
+          "tooltip_short": "Sahabat Nabi Muhammad SAW yang dikenal karena kesetiaannya dan pengorbanannya dalam mendukung dakwah Islam.",
+          "tooltip_long": "Abu Lubabah bin Abdul Mundhir adalah seorang sahabat Nabi Muhammad SAW yang berasal dari kalangan Anshar. Ia dikenal karena kesetiaannya dan pengorbanannya dalam mendukung dakwah Islam, termasuk dalam Perang Uhud dan Perang Khandaq. Salah satu peristiwa yang dikenal dari dirinya adalah keteguhannya dalam memperjuangkan ajaran Islam meskipun dalam keadaan sulit. Abu Lubabah dikenal sebagai sosok yang memiliki kedudukan tinggi di kalangan sahabat Nabi.",
+          "created_at": "2023-06-01T19:38:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10204,
+          "keyword": "Hanzalah bin Abu Amir",
+          "tooltip_short": "Sahabat yang dikenal sebagai syuhada dalam Perang Uhud, yang gugur dalam keadaan suci dan dibersihkan oleh malaikat.",
+          "tooltip_long": "Hanzalah bin Abu Amir, yang dikenal dengan julukan 'Hanzalah al-Ghazi', adalah seorang sahabat Nabi Muhammad SAW yang terkenal karena keberaniannya dalam berperang. Ia gugur sebagai syuhada dalam Perang Uhud dalam keadaan suci, sehingga ia disebutkan dalam hadits bahwa malaikat membersihkan tubuhnya. Hanzalah adalah salah satu sahabat yang menunjukkan keteguhan dan pengorbanan luar biasa untuk Islam.",
+          "created_at": "2023-06-01T19:40:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10205,
+          "keyword": "Nu’man bin Basyir",
+          "tooltip_short": "Sahabat Nabi Muhammad SAW yang terkenal karena kesetiaannya kepada Islam dan kecerdasannya.",
+          "tooltip_long": "Nu’man bin Basyir adalah seorang sahabat Nabi Muhammad SAW yang berasal dari kalangan Anshar. Ia dikenal karena kesetiaannya kepada Islam, kecerdasannya, dan keberaniannya dalam berbagai pertempuran. Nu’man juga terkenal sebagai seorang yang bijaksana dan memiliki peran penting dalam sejarah Islam. Ia merupakan salah satu sahabat yang ikut serta dalam banyak pertempuran dan memberikan kontribusi besar bagi perjuangan Islam.",
+          "created_at": "2023-06-01T19:42:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10206,
+          "keyword": "Abu Aswad al-Du’ali",
+          "tooltip_short": "Sahabat Nabi Muhammad SAW yang dikenal sebagai ahli bahasa Arab dan pelopor ilmu nahwu.",
+          "tooltip_long": "Abu Aswad al-Du’ali adalah seorang sahabat Nabi Muhammad SAW yang sangat terkenal di bidang ilmu bahasa Arab. Dia dikenal sebagai pelopor ilmu nahwu (tata bahasa Arab) dan menjadi tokoh penting dalam perkembangan ilmu pengetahuan di dunia Islam. Abu Aswad juga dikenal karena keilmuannya dalam bahasa Arab dan kontribusinya dalam menjaga kemurnian bahasa Arab, terutama dalam menyusun kaidah-kaidah tata bahasa.",
+          "created_at": "2023-06-01T19:45:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10207,
+          "keyword": "Abrahah",
+          "tooltip_short": "Pemimpin pasukan gajah yang berusaha menghancurkan Ka'bah namun dikalahkan oleh burung Ababil.",
+          "tooltip_long": "Abrahah adalah seorang gubernur Yaman yang terkenal karena serangannya terhadap Ka'bah di Makkah dengan pasukan gajah pada tahun 570 Masehi. Tujuannya adalah untuk menghancurkan Ka'bah dan menggantikannya dengan gereja yang lebih megah di Yaman. Namun, serangan tersebut gagal total karena Allah mengirimkan burung Ababil yang melemparkan batu dari api, menghancurkan pasukan Abrahah. Peristiwa ini tercatat dalam Surah Al-Fil dalam Al-Qur'an.",
+          "created_at": "2023-06-01T19:50:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10208,
+          "keyword": "Aminah binti Wahb",
+          "tooltip_short": "Ibu Nabi Muhammad SAW yang meninggal saat Nabi Muhammad masih berusia enam tahun.",
+          "tooltip_long": "Aminah binti Wahb adalah ibu dari Nabi Muhammad SAW. Beliau berasal dari keluarga terpandang di Makkah dan istri dari Abdullah. Aminah sangat menyayangi Nabi Muhammad dan merawatnya dengan penuh kasih sayang hingga beliau berusia enam tahun. Setelah Aminah meninggal, Nabi Muhammad SAW diasuh oleh kakeknya, Abdul Muthalib, dan kemudian oleh pamannya, Abu Talib.",
+          "created_at": "2023-06-01T20:05:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10209,
+          "keyword": "Abdullah bin Abdul Muthalib",
+          "tooltip_short": "Ayah dari Nabi Muhammad SAW.",
+          "tooltip_long": "Abdullah adalah ayah Nabi Muhammad SAW, dan anak dari Abdul Muthalib.",
+          "created_at": "2023-06-01T10:05:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10210,
+          "keyword": "Abdul Muthalib bin Hashim",
+          "tooltip_short": "Kakek dari Nabi Muhammad SAW, pemimpin Quraisy.",
+          "tooltip_long": "Abdul Muthalib adalah kakek dari Nabi Muhammad SAW dan dikenal sebagai pemimpin Quraisy yang sangat dihormati di Makkah.",
+          "created_at": "2023-06-01T10:10:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10211,
+          "keyword": "Hashim bin Abd Manaf",
+          "tooltip_short": "Buyut Nabi Muhammad SAW, pemimpin suku Quraisy.",
+          "tooltip_long": "Hashim adalah buyut Nabi Muhammad SAW dan seorang tokoh penting dalam suku Quraisy yang dihormati di Makkah.",
+          "created_at": "2023-06-01T10:15:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10212,
+          "keyword": "Abd Manaf bin Qusai",
+          "tooltip_short": "Leluhur penting dari Quraisy.",
+          "tooltip_long": "Abd Manaf adalah leluhur Nabi Muhammad SAW yang berasal dari suku Quraisy, dan merupakan keturunan Qusayy.",
+          "created_at": "2023-06-01T10:20:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10213,
+          "keyword": "Qusai bin Kilab",
+          "tooltip_short": "Pemimpin suku Quraisy yang mengelola Ka'bah.",
+          "tooltip_long": "Qusayy adalah pemimpin yang mengorganisasi suku Quraisy dan mengelola Ka'bah di Makkah, serta menyatukan suku-suku Quraisy.",
+          "created_at": "2023-06-01T10:25:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10214,
+          "keyword": "Kilab bin Murrah",
+          "tooltip_short": "Leluhur penting dalam garis keturunan Nabi Muhammad.",
+          "tooltip_long": "Kilab bin Murrah adalah leluhur Nabi Muhammad SAW dan dikenal sebagai pemimpin yang dihormati di kalangan Quraisy.",
+          "created_at": "2023-06-01T10:30:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10215,
+          "keyword": "Murrah bin Ka'b",
+          "tooltip_short": "Leluhur penting dalam suku Quraisy.",
+          "tooltip_long": "Murrah bin Ka'b adalah leluhur yang dihormati dalam garis keturunan Quraisy.",
+          "created_at": "2023-06-01T10:35:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10216,
+          "keyword": "Ka'b bin Lu'ay",
+          "tooltip_short": "Tokoh terhormat dalam suku Quraisy.",
+          "tooltip_long": "Ka'b bin Lu'ay adalah salah satu leluhur yang dihormati dalam suku Quraisy dan dikenal dengan kedudukan terhormatnya.",
+          "created_at": "2023-06-01T10:40:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10217,
+          "keyword": "Lu'ay bin Ghalib",
+          "tooltip_short": "Leluhur penting dalam suku Quraisy.",
+          "tooltip_long": "Lu'ay bin Ghalib adalah salah satu leluhur Nabi Muhammad SAW yang sangat dihormati dalam suku Quraisy.",
+          "created_at": "2023-06-01T10:45:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10218,
+          "keyword": "Ghalib bin Fihr",
+          "tooltip_short": "Nenek moyang Nabi Muhammad SAW.",
+          "tooltip_long": "Ghalib bin Fihr adalah leluhur yang berperan penting dalam suku Quraisy dan dikenal karena kedudukannya yang dihormati.",
+          "created_at": "2023-06-01T10:50:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10219,
+          "keyword": "Fihr bin Malik",
+          "tooltip_short": "Asal nama suku Quraisy.",
+          "tooltip_long": "Fihr bin Malik adalah nenek moyang suku Quraisy dan dikenal sebagai asal nama suku Quraisy.",
+          "created_at": "2023-06-01T10:55:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10220,
+          "keyword": "Malik bin Al-Nazr",
+          "tooltip_short": "Tokoh terkemuka dalam suku Quraisy.",
+          "tooltip_long": "Malik bin Al-Nazr adalah tokoh penting dalam suku Quraisy dan nenek moyang yang dihormati.",
+          "created_at": "2023-06-01T11:00:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10221,
+          "keyword": "Al-Nazr bin Kinana",
+          "tooltip_short": "Pemimpin yang berperan penting dalam suku Quraisy.",
+          "tooltip_long": "Al-Nazr bin Kinana adalah seorang pemimpin yang berperan penting dalam garis keturunan Quraisy.",
+          "created_at": "2023-06-01T11:05:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10222,
+          "keyword": "Kinana bin Khuzaymah",
+          "tooltip_short": "Leluhur penting dalam suku Quraisy.",
+          "tooltip_long": "Kinana bin Khuzaymah adalah tokoh yang sangat dihormati dalam suku Quraisy dan memiliki pengaruh besar.",
+          "created_at": "2023-06-01T11:10:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10223,
+          "keyword": "Khuzaymah bin Mudrikah",
+          "tooltip_short": "Tokoh penting dalam suku Arab.",
+          "tooltip_long": "Khuzaymah bin Mudrikah adalah leluhur yang dihormati dalam suku Arab dan bagian penting dari garis keturunan Quraisy.",
+          "created_at": "2023-06-01T11:15:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10224,
+          "keyword": "Mudrikah bin Ilyas",
+          "tooltip_short": "Leluhur yang dihormati dalam garis keturunan Quraisy.",
+          "tooltip_long": "Mudrikah bin Ilyas adalah leluhur yang berperan penting dalam sejarah keturunan Quraisy.",
+          "created_at": "2023-06-01T11:20:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10225,
+          "keyword": "Ilyas bin Mudar",
+          "tooltip_short": "Salah satu nenek moyang Nabi Muhammad SAW.",
+          "tooltip_long": "Ilyas bin Mudar adalah salah satu nenek moyang yang dihormati dalam garis keturunan Nabi Muhammad SAW.",
+          "created_at": "2023-06-01T11:25:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10226,
+          "keyword": "Mudar bin Nizar",
+          "tooltip_short": "Leluhur besar dalam sejarah keturunan Arab.",
+          "tooltip_long": "Mudar bin Nizar adalah leluhur yang sangat dihormati dalam sejarah Arab dan keturunan Nabi Muhammad SAW.",
+          "created_at": "2023-06-01T11:30:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10227,
+          "keyword": "Nizar bin Ma'ad",
+          "tooltip_short": "Leluhur penting dalam sejarah keturunan Arab.",
+          "tooltip_long": "Nizar bin Ma'ad adalah leluhur besar yang berasal dari suku Arab dan berperan penting dalam sejarah keturunan Nabi Muhammad SAW.",
+          "created_at": "2023-06-01T11:35:00Z",
+          "updated_at": null
+        },
+        {
+          "id": 10228,
+          "keyword": "Ma'ad bin Adnan",
+          "tooltip_short": "Leluhur besar dari Nabi Muhammad SAW.",
+          "tooltip_long": "Ma'ad bin Adnan adalah leluhur yang sangat dihormati dalam sejarah Arab dan merupakan garis keturunan penting bagi Nabi Muhammad SAW.",
+          "created_at": "2023-06-01T11:40:00Z",
+          "updated_at": null
         }
       ]
     }
