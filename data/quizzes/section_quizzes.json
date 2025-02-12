@@ -221,6 +221,7 @@
       "created_by": 1
     },
     {
+      "id": 3,
       "title": "Materi Ketiga",
       "status": "active",
       "completed_quizzes": 0,
@@ -277,7 +278,8 @@
       "created_by": 1
     },
     {
-      "title": "Evaluasi",
+      "id": 5,
+      "title": "Pengantar Rukun Iman",
       "status": "active",
       "completed_quizzes": 0,
       "total_quizzes": 1,

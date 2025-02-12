@@ -1,14 +1,23 @@
 package main
 
 import (
+	"fmt"
+	"quiz-app-api/database"
 	"quiz-app-api/handlers/category"
-    "quiz-app-api/handlers/tooltips"
+	"quiz-app-api/handlers/tooltips"
+	"quiz-app-api/models"
 
 	"github.com/gin-gonic/gin"
 )
 
 
 func main() {
+
+    database.ConnectDB()
+	models.Migrate(database.DB)
+
+	fmt.Println("Database migration completed!")
+    
 	r := gin.Default()
 
 	r.Use(func(c *gin.Context) {

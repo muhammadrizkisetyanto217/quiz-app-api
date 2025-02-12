@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name_quizzes": "Bagian Ke-1",
+      "status": "active",
+      "attempt": 0,
+      "icon_url": 1,
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": "2023-06-01T10:00:00Z",
+      "section_id": 1
+    },
+    {
+      "id": 2,
+      "name_quizzes": "Bagian Ke-2",
+      "status": "active",
+      "attempt": 0,
+      "icon_url": 1,
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": "2023-06-01T10:00:00Z",
+      "section_id": 1
+    },
+    {
+      "id": 3,
+      "name_quizzes": "Bagian Ke-3",
+      "status": "active",
+      "attempt": 0,
+      "icon_url": 1,
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": "2023-06-01T10:00:00Z",
+      "section_id": 1
+    },
+    {
+      "id": 4,
+      "name_quizzes": "Bagian Ke-1",
+      "status": "active",
+      "attempt": 0,
+      "icon_url": 1,
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": "2023-06-01T10:00:00Z",
+      "section_id": 2
+    },
+    {
+      "id": 5,
+      "name_quizzes": "Bagian Ke-2",
+      "status": "active",
+      "attempt": 0,
+      "icon_url": 1,
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": "2023-06-01T10:00:00Z",
+      "section_id": 2
+    },
+    {
+      "id": 6,
+      "name_quizzes": "Bagian Ke-1",
+      "status": "active",
+      "attempt": 0,
+      "icon_url": 1,
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": "2023-06-01T10:00:00Z",
+      "section_id": 3
+    },
+    {
+      "id": 7,
+      "name_quizzes": "Bagian Ke-2",
+      "status": "active",
+      "attempt": 0,
+      "icon_url": 1,
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": "2023-06-01T10:00:00Z",
+      "section_id": 3
+    },
+    {
+      "id": 8,
+      "name_quizzes": "Bagian Ke-3",
+      "status": "active",
+      "attempt": 0,
+      "icon_url": 1,
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": "2023-06-01T10:00:00Z",
+      "section_id": 3
+    },
+    {
+      "id": 9,
+      "name_quizzes": "Bagian Ke-1",
+      "status": "active",
+      "attempt": 0,
+      "icon_url": 1,
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": "2023-06-01T10:00:00Z",
+      "section_id": 4
+    },
+    {
+      "id": 10,
+      "name_quizzes": "Bagian Ke-2",
+      "status": "active",
+      "attempt": 0,
+      "icon_url": 1,
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": "2023-06-01T10:00:00Z",
+      "section_id": 4
+    },
+    {
+      "id": 11,
+      "name_quizzes": "Bagian Ke-3",
+      "status": "active",
+      "attempt": 0,
+      "icon_url": 1,
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": "2023-06-01T10:00:00Z",
+      "section_id": 4
+    },
+    {
+      "id": 12,
+      "name_quizzes": "Evaluasi",
+      "status": "active",
+      "attempt": 0,
+      "icon_url": 1,
+      "created_at": "2023-06-01T10:00:00Z",
+      "updated_at": "2023-06-01T10:00:00Z",
+      "section_id": 4
+    }
+  ]
+}
